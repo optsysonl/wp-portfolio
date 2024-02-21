@@ -1,0 +1,550 @@
+  
+            .chbs-booking-form-id-43424 .chbs-location-add:hover,
+            .chbs-booking-form-id-43424 .chbs-location-remove:hover,
+            .chbs-booking-form-id-43424 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button:hover,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-1,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2.chbs-state-selected,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2.chbs-state-selected:hover,
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a,
+            .chbs-booking-form-id-43424 .chbs-payment>li>a .chbs-meta-icon-tick,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-header>a:hover,
+            .chbs-booking-form-id-43424 .chbs-main-navigation-default>ul>li.chbs-state-selected>a>span:first-child
+            {
+				background-color:#FF700A;
+            }
+            
+            html .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-panel
+            {
+                border-top-color:#FF700A;
+            }
+            
+            .ui-datepicker td a.ui-state-hover,
+            .chbs-booking-form-id-43424 .chbs-form-checkbox,
+            .chbs-booking-form-id-43424 .chbs-location-add:hover,
+            .chbs-booking-form-id-43424 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button:hover,
+            .chbs-booking-form-id-43424 .chbs-location-remove:hover,
+            .chbs-booking-form-id-43424 .chbs-payment>li>a.chbs-state-selected,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-header>a:hover,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-1,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2.chbs-state-selected,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2.chbs-state-selected:hover,
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a,
+			body.rtl .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a
+            {
+                border-color:#FF700A;
+            }
+            
+            rs-module-wrap .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a
+            {
+                border-color:#FF700A !important;
+            }
+            
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a
+            {
+                border-left-color:#FF700A;
+            }
+            
+			body.rtl .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a
+            {
+                border-right-color:#FF700A;
+            }
+            
+            .ui-datepicker td a.ui-state-hover,
+            .ui-menu .ui-menu-item.ui-state-focus,   
+            .ui-timepicker-wrapper>.ui-timepicker-list>li:hover,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li.ui-timepicker-selected,
+            .chbs-booking-form-id-43424 .chbs-location-add,
+            .chbs-booking-form-id-43424 .chbs-location-remove,
+            .chbs-booking-form-id-43424 .iti__country.iti__highlight,
+            .chbs-booking-form-id-43424 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price>span>span:first-child,
+            .chbs-booking-form-id-43424 .chbs-form-checkbox.chbs-state-selected>.chbs-meta-icon-tick,
+            .chbs-booking-form-id-43424 .ui-selectmenu-button .chbs-meta-icon-arrow-vertical-large,
+            .chbs-booking-form-id-43424 .chbs-ride-info>div>span:first-child,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-list>ul>li>div.chbs-column-1>.booking-form-extra-price,
+            .chbs-booking-form-id-43424 .chbs-booking-complete .chbs-meta-icon-tick,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-header>span:first-child
+            {
+                color:#FF700A;
+            }
+  
+            .chbs-booking-form-id-43424 .chbs-summary,
+            .chbs-booking-form-id-43424 .chbs-booking-complete .chbs-meta-icon-tick>div:first-child+div,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute,
+            .chbs-booking-form-id-43424 #payment ul.payment_methods
+			{
+				background-color:#F6F6F6;
+			}
+            
+            .chbs-booking-form-id-43424 .chbs-booking-complete .chbs-meta-icon-tick>div:first-child+div
+            {
+                border-color:#F6F6F6;
+            }
+            .chbs-booking-form-id-43424 .chbs-qtip,
+            .chbs-booking-form-id-43424 .chbs-notice,
+            .chbs-booking-form-id-43424 .chbs-location-add:hover,
+            .chbs-booking-form-id-43424 .chbs-location-remove:hover,
+            .chbs-booking-form-id-43424 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button:hover,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-1,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2.chbs-state-selected,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2.chbs-state-selected:hover,
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a,
+            .chbs-booking-form-id-43424 .chbs-main-navigation-default>ul>li.chbs-state-selected>a>span:first-child,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-header>a:hover,
+            .chbs-booking-form-id-43424 .chbs-payment>li>a .chbs-meta-icon-tick
+			{
+				color:#FFFFFF;
+			}
+            
+            .ui-menu,
+            .ui-datepicker,
+            .ui-timepicker-wrapper,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li:hover,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li.ui-timepicker-selected,
+            .chbs-booking-form-id-43424 .chbs-form-field,
+            .chbs-booking-form-id-43424 .chbs-form-checkbox,
+			.chbs-booking-form-id-43424 .chbs-button.chbs-button-style-1:hover,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2:hover,
+			.chbs-booking-form-id-43424 .chbs-button.chbs-button-style-3:hover,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-selected.chbs-button-style-2,
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            .chbs-booking-form-id-43424.chbs-widget.chbs-widget-style-2 .chbs-main-content-step-1 .chbs-tab.ui-tabs .ui-tabs-panel>div:last-child
+            {
+                background-color:#FFFFFF;
+            }
+  
+            .ui-datepicker th,
+            .ui-datepicker .ui-datepicker-prev,
+            .ui-datepicker .ui-datepicker-next,
+            .chbs-booking-form-id-43424 .chbs-tooltip,
+            .chbs-booking-form-id-43424 .chbs-form-label-group,
+            .chbs-booking-form-id-43424 .chbs-form-field>label,
+            .chbs-booking-form-id-43424 .chbs-form-field>label a,
+            .chbs-booking-form-id-43424 .chbs-form-field>label a:hover,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2,
+			.chbs-booking-form-id-43424 .chbs-button.chbs-button-style-3,
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            .chbs-booking-form-id-43424 .chbs-ride-info>div>span:first-child+span,
+            .chbs-booking-form-id-43424 .chbs-main-navigation-default>ul>li>a>span,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-field .chbs-summary-field-name,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-header>a,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-list>ul>li>div.chbs-column-1>.booking-form-extra-description,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute>ul>li>div:first-child,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta a,
+            .chbs-booking-form-id-43424 .chbs-pagination a.chbs-pagination-prev,
+            .chbs-booking-form-id-43424 .chbs-pagination a.chbs-pagination-next
+			{
+				color:#FFFFFF;
+			}
+  
+            .ui-datepicker,
+            .ui-datepicker thead,
+            .ui-datepicker .ui-datepicker-prev,
+            .ui-datepicker .ui-datepicker-next,
+            .ui-autocomplete,
+            .ui-selectmenu-menu,
+            .ui-menu .ui-menu-item,
+            .ui-timepicker-wrapper,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-category-list>div,
+            .chbs-booking-form-id-43424 .chbs-form-field,
+            .chbs-booking-form-id-43424 .chbs-payment>li>a,
+            .chbs-booking-form-id-43424 .chbs-ride-info,
+            .chbs-booking-form-id-43424 .chbs-ride-info>div:first-child,
+            .chbs-booking-form-id-43424 .chbs-location-add,
+            .chbs-booking-form-id-43424 .chbs-location-remove,
+            .chbs-booking-form-id-43424 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2,
+			.chbs-booking-form-id-43424 .chbs-button.chbs-button-style-3,
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-panel,
+            .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            body.rtl .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-list>ul>li>div,
+            .chbs-booking-form-id-43424 .chbs-vehicle-list>ul>li,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-header>span:first-child,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta .chbs-circle,
+            .chbs-booking-form-id-43424 .chbs-booking-complete .chbs-meta-icon-tick>div:first-child,
+            .chbs-booking-form-id-43424.chbs-width-300 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a,
+            body.rtl .chbs-booking-form-id-43424.chbs-width-300 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a,
+			.chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price-bid>div+div>input,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a:hover>span.chbs-circle,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a.chbs-state-selected>span.chbs-circle,
+            .chbs-booking-form-id-43424.chbs-width-480.chbs-widget.chbs-widget-style-2 .chbs-main-content-step-1 .chbs-tab.ui-tabs .ui-tabs-panel .chbs-form-field,
+            .chbs-booking-form-id-43424.chbs-width-300.chbs-widget.chbs-widget-style-2 .chbs-main-content-step-1 .chbs-tab.ui-tabs .ui-tabs-panel .chbs-form-field
+			{
+				border-color:#9BBACE;
+			}
+            
+            rs-module .chbs-booking-form-id-43424 .chbs-tab.ui-tabs .ui-tabs-nav>li>a
+            {
+                border-color:#9BBACE !important;
+            }
+            
+            .ui-datepicker .ui-datepicker-prev.ui-state-hover,
+            .ui-datepicker .ui-datepicker-next.ui-state-hover,       
+            .chbs-booking-form-id-43424 .chbs-pagination a.chbs-pagination-prev:hover,
+            .chbs-booking-form-id-43424 .chbs-pagination a.chbs-pagination-next:hover,
+            .chbs-booking-form-id-43424 .chbs-form-label-group,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-2,
+			.chbs-booking-form-id-43424 .chbs-button.chbs-button-style-3,
+            .chbs-booking-form-id-43424 .chbs-main-navigation-default>ul>li>a>span:first-child,
+            .chbs-booking-form-id-43424 .chbs-main-navigation-default>ul>li>div,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a:hover>span.chbs-circle,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a.chbs-state-selected>span.chbs-circle
+			{
+				background-color:#9BBACE;
+			}
+  
+            .ui-datepicker td a,
+            .ui-datepicker .ui-datepicker-title,
+            .ui-datepicker .ui-datepicker-prev.ui-state-hover,
+            .ui-datepicker .ui-datepicker-next.ui-state-hover, 
+            .chbs-booking-form-id-43424 .chbs-agreement,
+            .chbs-booking-form-id-43424 .chbs-agreement a,
+            .chbs-booking-form-id-43424 .chbs-agreement a:hover,
+            .chbs-booking-form-id-43424 .chbs-pagination a.chbs-pagination-prev:hover,
+            .chbs-booking-form-id-43424 .chbs-pagination a.chbs-pagination-next:hover,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-category-list>div>a,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-category-list>div>a:hover,
+            .chbs-booking-form-id-43424 .chbs-payment>li>a,
+            .chbs-booking-form-id-43424 .chbs-payment>li>a:hover,
+            .chbs-booking-form-id-43424 .chbs-payment-header,
+            .chbs-booking-form-id-43424 .chbs-agreement-header,
+            .chbs-booking-form-id-43424 .chbs-form-field input,
+            .chbs-booking-form-id-43424 .chbs-summary-price-element span,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-header>h4,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-field .chbs-summary-field-value,            
+            .chbs-booking-form-id-43424 .chbs-booking-complete h3,
+            .chbs-booking-form-id-43424 .ui-selectmenu-button .ui-selectmenu-text,
+            .chbs-booking-form-id-43424 .chbs-ride-info>div>span:first-child+span+span,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-list>ul>li>div.chbs-column-1>.booking-form-extra-name,
+            .chbs-booking-form-id-43424 .chbs-main-navigation-default>ul>li.chbs-state-selected>a>span:first-child+span,
+            .chbs-booking-form-id-43424 .chbs-booking-extra-header>span:first-child+span,
+			.chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>div.chbs-vehicle-content-header>span,
+			.chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price-bid>div+div>input,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a:hover,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute>ul>li>div:first-child+div
+			{
+				color:#9BBACE;
+			}
+            
+            .chbs-booking-form-id-43424 .chbs-summary-price-element>div.chbs-summary-price-element-total>span:first-child+span
+            {
+                border-color:#9BBACE;
+            }
+  
+            .ui-datepicker td.ui-datepicker-unselectable,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta .chbs-meta-icon-bag,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta .chbs-meta-icon-people
+			{
+				color:#CED3D9;
+			}
+            
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-field,
+            .chbs-booking-form-id-43424 .chbs-summary .chbs-summary-header>a,
+            .chbs-booking-form-id-43424 .chbs-summary-price-element>div.chbs-summary-price-element-total,
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute>ul>li
+			{
+				border-color:#CED3D9;
+			}            
+  
+            .chbs-booking-form-id-43424 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price>span>span:first-child+span,
+            .chbs-booking-form-id-43424 .chbs-summary-price-element>div.chbs-summary-price-element-pay>span:first-child>span
+			{
+				color:#9EA8B2;
+			}
+  
+            .ui-menu .ui-menu-item,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li,
+            .chbs-booking-form-id-43424 .chbs-booking-complete p,
+            .chbs-booking-form-id-43424 .chbs-button.chbs-button-style-1:hover
+			{
+				color:#556677;
+			}
+            
+            .chbs-booking-form-id-43424 .chbs-qtip,
+            .chbs-booking-form-id-43424 .chbs-notice
+			{
+				background-color:#556677;
+			}
+            
+            .chbs-booking-form-id-43424 .chbs-qtip,
+            .chbs-booking-form-id-43424 .chbs-notice
+			{
+				border-color:#556677;
+			}  
+  
+            .chbs-booking-form-id-37623 .chbs-location-add:hover,
+            .chbs-booking-form-id-37623 .chbs-location-remove:hover,
+            .chbs-booking-form-id-37623 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button:hover,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-1,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2.chbs-state-selected,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2.chbs-state-selected:hover,
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a,
+            .chbs-booking-form-id-37623 .chbs-payment>li>a .chbs-meta-icon-tick,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-header>a:hover,
+            .chbs-booking-form-id-37623 .chbs-main-navigation-default>ul>li.chbs-state-selected>a>span:first-child
+            {
+				background-color:#FF700A;
+            }
+            
+            html .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-panel
+            {
+                border-top-color:#FF700A;
+            }
+            
+            .ui-datepicker td a.ui-state-hover,
+            .chbs-booking-form-id-37623 .chbs-form-checkbox,
+            .chbs-booking-form-id-37623 .chbs-location-add:hover,
+            .chbs-booking-form-id-37623 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button:hover,
+            .chbs-booking-form-id-37623 .chbs-location-remove:hover,
+            .chbs-booking-form-id-37623 .chbs-payment>li>a.chbs-state-selected,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-header>a:hover,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-1,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2.chbs-state-selected,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2.chbs-state-selected:hover,
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a,
+			body.rtl .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a
+            {
+                border-color:#FF700A;
+            }
+            
+            rs-module-wrap .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a
+            {
+                border-color:#FF700A !important;
+            }
+            
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a
+            {
+                border-left-color:#FF700A;
+            }
+            
+			body.rtl .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a
+            {
+                border-right-color:#FF700A;
+            }
+            
+            .ui-datepicker td a.ui-state-hover,
+            .ui-menu .ui-menu-item.ui-state-focus,   
+            .ui-timepicker-wrapper>.ui-timepicker-list>li:hover,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li.ui-timepicker-selected,
+            .chbs-booking-form-id-37623 .chbs-location-add,
+            .chbs-booking-form-id-37623 .chbs-location-remove,
+            .chbs-booking-form-id-37623 .iti__country.iti__highlight,
+            .chbs-booking-form-id-37623 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price>span>span:first-child,
+            .chbs-booking-form-id-37623 .chbs-form-checkbox.chbs-state-selected>.chbs-meta-icon-tick,
+            .chbs-booking-form-id-37623 .ui-selectmenu-button .chbs-meta-icon-arrow-vertical-large,
+            .chbs-booking-form-id-37623 .chbs-ride-info>div>span:first-child,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-list>ul>li>div.chbs-column-1>.booking-form-extra-price,
+            .chbs-booking-form-id-37623 .chbs-booking-complete .chbs-meta-icon-tick,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-header>span:first-child
+            {
+                color:#FF700A;
+            }
+  
+            .chbs-booking-form-id-37623 .chbs-summary,
+            .chbs-booking-form-id-37623 .chbs-booking-complete .chbs-meta-icon-tick>div:first-child+div,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute,
+            .chbs-booking-form-id-37623 #payment ul.payment_methods
+			{
+				background-color:#F6F6F6;
+			}
+            
+            .chbs-booking-form-id-37623 .chbs-booking-complete .chbs-meta-icon-tick>div:first-child+div
+            {
+                border-color:#F6F6F6;
+            }
+            .chbs-booking-form-id-37623 .chbs-qtip,
+            .chbs-booking-form-id-37623 .chbs-notice,
+            .chbs-booking-form-id-37623 .chbs-location-add:hover,
+            .chbs-booking-form-id-37623 .chbs-location-remove:hover,
+            .chbs-booking-form-id-37623 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button:hover,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-1,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2.chbs-state-selected,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2.chbs-state-selected:hover,
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active>a,
+            .chbs-booking-form-id-37623 .chbs-main-navigation-default>ul>li.chbs-state-selected>a>span:first-child,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-header>a:hover,
+            .chbs-booking-form-id-37623 .chbs-payment>li>a .chbs-meta-icon-tick
+			{
+				color:#FFFFFF;
+			}
+            
+            .ui-menu,
+            .ui-datepicker,
+            .ui-timepicker-wrapper,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li:hover,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li.ui-timepicker-selected,
+            .chbs-booking-form-id-37623 .chbs-form-field,
+            .chbs-booking-form-id-37623 .chbs-form-checkbox,
+			.chbs-booking-form-id-37623 .chbs-button.chbs-button-style-1:hover,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2:hover,
+			.chbs-booking-form-id-37623 .chbs-button.chbs-button-style-3:hover,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-selected.chbs-button-style-2,
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            .chbs-booking-form-id-37623.chbs-widget.chbs-widget-style-2 .chbs-main-content-step-1 .chbs-tab.ui-tabs .ui-tabs-panel>div:last-child
+            {
+                background-color:#FFFFFF;
+            }
+  
+            .ui-datepicker th,
+            .ui-datepicker .ui-datepicker-prev,
+            .ui-datepicker .ui-datepicker-next,
+            .chbs-booking-form-id-37623 .chbs-tooltip,
+            .chbs-booking-form-id-37623 .chbs-form-label-group,
+            .chbs-booking-form-id-37623 .chbs-form-field>label,
+            .chbs-booking-form-id-37623 .chbs-form-field>label a,
+            .chbs-booking-form-id-37623 .chbs-form-field>label a:hover,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2,
+			.chbs-booking-form-id-37623 .chbs-button.chbs-button-style-3,
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            .chbs-booking-form-id-37623 .chbs-ride-info>div>span:first-child+span,
+            .chbs-booking-form-id-37623 .chbs-main-navigation-default>ul>li>a>span,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-field .chbs-summary-field-name,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-header>a,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-list>ul>li>div.chbs-column-1>.booking-form-extra-description,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute>ul>li>div:first-child,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta a,
+            .chbs-booking-form-id-37623 .chbs-pagination a.chbs-pagination-prev,
+            .chbs-booking-form-id-37623 .chbs-pagination a.chbs-pagination-next
+			{
+				color:#778591;
+			}
+  
+            .ui-datepicker,
+            .ui-datepicker thead,
+            .ui-datepicker .ui-datepicker-prev,
+            .ui-datepicker .ui-datepicker-next,
+            .ui-autocomplete,
+            .ui-selectmenu-menu,
+            .ui-menu .ui-menu-item,
+            .ui-timepicker-wrapper,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-category-list>div,
+            .chbs-booking-form-id-37623 .chbs-form-field,
+            .chbs-booking-form-id-37623 .chbs-payment>li>a,
+            .chbs-booking-form-id-37623 .chbs-ride-info,
+            .chbs-booking-form-id-37623 .chbs-ride-info>div:first-child,
+            .chbs-booking-form-id-37623 .chbs-location-add,
+            .chbs-booking-form-id-37623 .chbs-location-remove,
+            .chbs-booking-form-id-37623 .chbs-form-field .chbs-quantity-section .chbs-quantity-section-button,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2,
+			.chbs-booking-form-id-37623 .chbs-button.chbs-button-style-3,
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-panel,
+            .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            body.rtl .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li>a,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-list>ul>li>div,
+            .chbs-booking-form-id-37623 .chbs-vehicle-list>ul>li,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-header>span:first-child,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta .chbs-circle,
+            .chbs-booking-form-id-37623 .chbs-booking-complete .chbs-meta-icon-tick>div:first-child,
+            .chbs-booking-form-id-37623.chbs-width-300 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a,
+            body.rtl .chbs-booking-form-id-37623.chbs-width-300 .chbs-tab.ui-tabs .ui-tabs-nav>li.ui-tabs-active+li>a,
+			.chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price-bid>div+div>input,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a:hover>span.chbs-circle,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a.chbs-state-selected>span.chbs-circle,
+            .chbs-booking-form-id-37623.chbs-width-480.chbs-widget.chbs-widget-style-2 .chbs-main-content-step-1 .chbs-tab.ui-tabs .ui-tabs-panel .chbs-form-field,
+            .chbs-booking-form-id-37623.chbs-width-300.chbs-widget.chbs-widget-style-2 .chbs-main-content-step-1 .chbs-tab.ui-tabs .ui-tabs-panel .chbs-form-field
+			{
+				border-color:#EAECEE;
+			}
+            
+            rs-module .chbs-booking-form-id-37623 .chbs-tab.ui-tabs .ui-tabs-nav>li>a
+            {
+                border-color:#EAECEE !important;
+            }
+            
+            .ui-datepicker .ui-datepicker-prev.ui-state-hover,
+            .ui-datepicker .ui-datepicker-next.ui-state-hover,       
+            .chbs-booking-form-id-37623 .chbs-pagination a.chbs-pagination-prev:hover,
+            .chbs-booking-form-id-37623 .chbs-pagination a.chbs-pagination-next:hover,
+            .chbs-booking-form-id-37623 .chbs-form-label-group,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-2,
+			.chbs-booking-form-id-37623 .chbs-button.chbs-button-style-3,
+            .chbs-booking-form-id-37623 .chbs-main-navigation-default>ul>li>a>span:first-child,
+            .chbs-booking-form-id-37623 .chbs-main-navigation-default>ul>li>div,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a:hover>span.chbs-circle,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a.chbs-state-selected>span.chbs-circle
+			{
+				background-color:#EAECEE;
+			}
+  
+            .ui-datepicker td a,
+            .ui-datepicker .ui-datepicker-title,
+            .ui-datepicker .ui-datepicker-prev.ui-state-hover,
+            .ui-datepicker .ui-datepicker-next.ui-state-hover, 
+            .chbs-booking-form-id-37623 .chbs-agreement,
+            .chbs-booking-form-id-37623 .chbs-agreement a,
+            .chbs-booking-form-id-37623 .chbs-agreement a:hover,
+            .chbs-booking-form-id-37623 .chbs-pagination a.chbs-pagination-prev:hover,
+            .chbs-booking-form-id-37623 .chbs-pagination a.chbs-pagination-next:hover,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-category-list>div>a,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-category-list>div>a:hover,
+            .chbs-booking-form-id-37623 .chbs-payment>li>a,
+            .chbs-booking-form-id-37623 .chbs-payment>li>a:hover,
+            .chbs-booking-form-id-37623 .chbs-payment-header,
+            .chbs-booking-form-id-37623 .chbs-agreement-header,
+            .chbs-booking-form-id-37623 .chbs-form-field input,
+            .chbs-booking-form-id-37623 .chbs-summary-price-element span,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-header>h4,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-field .chbs-summary-field-value,            
+            .chbs-booking-form-id-37623 .chbs-booking-complete h3,
+            .chbs-booking-form-id-37623 .ui-selectmenu-button .ui-selectmenu-text,
+            .chbs-booking-form-id-37623 .chbs-ride-info>div>span:first-child+span+span,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-list>ul>li>div.chbs-column-1>.booking-form-extra-name,
+            .chbs-booking-form-id-37623 .chbs-main-navigation-default>ul>li.chbs-state-selected>a>span:first-child+span,
+            .chbs-booking-form-id-37623 .chbs-booking-extra-header>span:first-child+span,
+			.chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>div.chbs-vehicle-content-header>span,
+			.chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price-bid>div+div>input,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta>div>div.chbs-vehicle-content-meta-button a:hover,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute>ul>li>div:first-child+div
+			{
+				color:#2C3E50;
+			}
+            
+            .chbs-booking-form-id-37623 .chbs-summary-price-element>div.chbs-summary-price-element-total>span:first-child+span
+            {
+                border-color:#2C3E50;
+            }
+  
+            .ui-datepicker td.ui-datepicker-unselectable,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta .chbs-meta-icon-bag,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-meta .chbs-meta-icon-people
+			{
+				color:#CED3D9;
+			}
+            
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-field,
+            .chbs-booking-form-id-37623 .chbs-summary .chbs-summary-header>a,
+            .chbs-booking-form-id-37623 .chbs-summary-price-element>div.chbs-summary-price-element-total,
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content .chbs-vehicle-content-description>div>.chbs-vehicle-content-description-attribute>ul>li
+			{
+				border-color:#CED3D9;
+			}            
+  
+            .chbs-booking-form-id-37623 .chbs-vehicle .chbs-vehicle-content>.chbs-vehicle-content-price>span>span:first-child+span,
+            .chbs-booking-form-id-37623 .chbs-summary-price-element>div.chbs-summary-price-element-pay>span:first-child>span
+			{
+				color:#9EA8B2;
+			}
+  
+            .ui-menu .ui-menu-item,
+            .ui-timepicker-wrapper>.ui-timepicker-list>li,
+            .chbs-booking-form-id-37623 .chbs-booking-complete p,
+            .chbs-booking-form-id-37623 .chbs-button.chbs-button-style-1:hover
+			{
+				color:#556677;
+			}
+            
+            .chbs-booking-form-id-37623 .chbs-qtip,
+            .chbs-booking-form-id-37623 .chbs-notice
+			{
+				background-color:#556677;
+			}
+            
+            .chbs-booking-form-id-37623 .chbs-qtip,
+            .chbs-booking-form-id-37623 .chbs-notice
+			{
+				border-color:#556677;
+			}  
