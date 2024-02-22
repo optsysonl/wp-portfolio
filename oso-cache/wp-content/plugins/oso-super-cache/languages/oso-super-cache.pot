@@ -1,0 +1,3151 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: OSO Super Cache\n"
+"POT-Creation-Date: 2020-04-05 18:45+0200\n"
+"PO-Revision-Date: 2017-04-23 18:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: oso-super-cache.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: oso-super-cache.php:63
+msgctxt "Status message"
+msgid
+"Your PHP version is \"http://php.net/supported-versions.php\" rel="
+"\"noreferrer\" target=\"_blank\">outdated</a> and not supported by OSO Super Cache "
+"Cache. Please disable OSO Super Cache, upgrade to PHP 5.6 or higher, and "
+"enable OSO Super Cache again. It is necessary to follow these steps in order."
+msgstr ""
+
+#: oso-super-cache.php:74
+msgctxt "Status message"
+msgid
+"<strong>OSO Super Cache</strong> is installed and active. It is not possible "
+"to run <strong>OSO Super Cache</strong> and <strong>OSO Super Cache "
+"Edition</strong> at the same time.<br>Please disable one of the two to "
+"remove this message."
+msgstr ""
+
+#: oso-super-cache.php:76
+msgctxt "Status message"
+msgid
+"<strong>OSO Super Cache</strong> is installed and active. "
+"It is not possible to run <strong>OSO Super Cache</strong> "
+"and <strong>OSO Super Cache</strong> at the same time.<br>Please disable one "
+"of the two to remove this message."
+msgstr ""
+
+#: classes/Cache/API.php:315
+msgctxt "API - Success Message"
+msgid "Support ticket submitted."
+msgstr ""
+
+#: classes/Cache/API.php:563
+msgctxt "API - Error Message"
+msgid "The request was blocked. Please try again later."
+msgstr ""
+
+#: classes/Cache/API.php:595
+#, php-format
+msgctxt "API - Error Message"
+msgid "An error occurred. Please contact the support. %s"
+msgstr ""
+
+#: classes/Cache/Backend/AdvancedSettings.php:105
+#: classes/Cache/Backend/AdvancedSettings.php:151
+#: classes/Cache/Backend/AdvancedSettings.php:171
+#: classes/Cache/Backend/AdvancedSettings.php:191
+#: classes/Cache/Backend/AdvancedSettings.php:226
+#: classes/Cache/Backend/AdvancedSettings.php:258
+#: classes/Cache/Backend/AdvancedSettings.php:310
+#: classes/Cache/Backend/AdvancedSettings.php:373
+#: classes/Cache/Backend/AdvancedSettings.php:434
+#: classes/Cache/Backend/AdvancedSettings.php:469
+#: classes/Cache/Backend/Dashboard.php:127
+msgctxt "Status message"
+msgid "Saved successfully."
+msgstr ""
+
+#: classes/Cache/Backend/AdvancedSettings.php:1089
+msgctxt "Status message"
+msgid "Your new configuration is now active."
+msgstr ""
+
+#: classes/Cache/Backend/AdvancedSettings.php:1106
+msgctxt "Status message"
+msgid "Your changes were discarded."
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:189
+msgctxt "Site title"
+msgid "OSO Super Cache"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:190
+#: classes/Cache/Backend/Backend.php:316
+msgctxt "Menu entry"
+msgid "OSO Super Cache"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:201
+msgctxt "Site title"
+msgid "Dashboard Settings"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:202
+msgctxt "Menu entry"
+msgid "Dashboard"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:211
+msgctxt "Site title"
+msgid "Advanced Caching Settings"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:212
+msgctxt "Menu entry"
+msgid "Advanced Settings"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:221
+msgctxt "Site title"
+msgid "CDN"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:222
+msgctxt "Menu entry"
+msgid "CDN"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:231
+msgctxt "Site title"
+msgid "Cache Indexing"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:232
+msgctxt "Menu entry"
+msgid "Cache Indexing"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:241
+msgctxt "Site title"
+msgid "View Cache"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:242
+msgctxt "Menu entry"
+msgid "View Cache"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:251
+msgctxt "Site title"
+msgid "Optimize Database"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:252
+msgctxt "Menu entry"
+msgid "Optimize Database"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:261
+msgctxt "Site title"
+msgid "Fragments"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:262
+msgctxt "Menu entry"
+msgid "Fragments"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:271
+msgctxt "Site title"
+msgid "Import / Export Settings"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:272
+msgctxt "Menu entry"
+msgid "Import &amp; Export"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:291
+msgctxt "Site title"
+msgid "About OSO Super Cache"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:292
+msgctxt "Menu entry"
+msgid "About"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:320
+msgctxt "Message"
+msgid "Do you really want to refresh the complete cache?"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:326
+msgctxt "Menu entry"
+msgid "Refresh Cache"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:336
+msgctxt "Message"
+msgid "Do you really want to clear the CSS pre-cache files?"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:342
+msgctxt "Menu entry"
+msgid "Clear CSS pre-cache files"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:399
+msgctxt "Status message"
+msgid
+"You have changed the configuration, but these settings are not active yet."
+"<br>If you are done with your configuration, click the button below to "
+"apply your changes."
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:400
+msgctxt "Status message"
+msgid "Mark all pages to refresh their cache"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:400
+msgctxt "Button title"
+msgid "Apply changes"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:400
+msgctxt "Button title"
+msgid "Undo all changes"
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:430
+msgctxt "Status message"
+msgid
+"OSO Super Cache was successfully activated. Please <a href=\"admin.php?"
+"page=oso-super-cache\">click here</a> and activate caching."
+msgstr ""
+
+#: classes/Cache/Backend/Backend.php:447
+msgctxt "Status message"
+msgid
+"The status of a plugin or a theme was changed. Please refresh the cache of "
+"OSO Super Cache to ensure it operates as intended. <a href=\"admin.php?"
+"page=oso-super-cache\">Click here</a> and scroll down to Cache Maintenance "
+"to refresh the cache."
+msgstr ""
+
+#: classes/Cache/Backend/CacheIndexing.php:106
+msgctxt "Status message"
+msgid "Could not detect XML-Sitemap."
+msgstr ""
+
+#: classes/Cache/Backend/CacheIndexing.php:128
+msgctxt "Status message"
+msgid
+"Your given XML Sitemap is a sitemap index file which is not supported."
+msgstr ""
+
+#: classes/Cache/Backend/CacheIndexing.php:132
+msgctxt "Status message"
+msgid "XML Sitemap loaded successfully."
+msgstr ""
+
+#: classes/Cache/Backend/CacheIndexing.php:135
+msgctxt "Status message"
+msgid "Could not load XML Sitemap."
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:79
+msgctxt "Status message"
+msgid
+"The file <strong>.htaccess</strong> is not writable. Please set the right "
+"permissions."
+
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:85
+#, php-format
+msgctxt "Status message"
+msgid
+"The folder <strong>/%s/</strong> is not writable. Please set the right "
+"permissions."
+
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:92
+#, php-format
+msgctxt "Status message"
+msgid
+"The folder <strong>/%s/cache/</strong> is not writable. Please set the "
+"right permissions. See "
+
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:97
+#, php-format
+msgctxt "Status message"
+msgid
+"The folder <strong>/%s/cache/</strong> contains a <strong>.htaccess</"
+"strong> file which can prevent that visitors can load your websites CSS "
+"and JavaScript. See "
+
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:116
+#, php-format
+msgctxt "Status message"
+msgid
+"Your PHP <strong>memory_limit</strong> is too low. Please increase your "
+"current limit of %s to at least 128M. If you have a lot of plugins "
+"installed, you should increase your limit to 256M or more."
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:121
+msgctxt "Status message"
+msgid
+"Your PHP setting <strong>allow_url_fopen</strong> is <strong>Off</strong>. "
+"Please switch it <strong>On</strong> otherwise, OSO Super Cache can not "
+"merge dynamic CSS."
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:260
+#, php-format
+msgctxt "Status message"
+msgid
+"A new version of OSO Super Cache is available. "
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:400
+msgctxt "Status message"
+msgid "Cache refresh successfully."
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:404
+msgctxt "Status message"
+msgid "Cache reset successfully."
+msgstr ""
+
+#: classes/Cache/Backend/Dashboard.php:408
+msgctxt "Status message"
+msgid "CSS pre-cache files cleared successfully."
+msgstr ""
+
+#: classes/Cache/Backend/ImportExport.php:67
+msgctxt "Status message"
+msgid "Your settings are not valid JSON."
+msgstr ""
+
+#: classes/Cache/Backend/ImportExport.php:155
+msgctxt "Status message"
+msgid "Import successfully."
+msgstr ""
+
+#: classes/Cache/Backend/MetaBox.php:61
+msgctxt "Meta box title"
+msgid "OSO Super Cache"
+msgstr ""
+
+#: classes/Cache/Backend/MetaBox.php:80
+msgctxt "Meta box notice"
+msgid
+"This page has not been added by OSO Super Cache yet, but will be added "
+"automatically soon."
+msgstr ""
+
+#: classes/Cache/Backend/MetaBox.php:81
+msgctxt "Meta box notice"
+msgid "Cache will be refreshed or created as soon as possible."
+msgstr ""
+
+#: classes/Cache/Backend/OptimizeDatabase.php:116
+#: classes/Cache/Backend/OptimizeDatabase.php:144
+#: classes/Cache/Backend/OptimizeDatabase.php:157
+msgctxt "Table status"
+msgid "<em>Already optimized</em>"
+msgstr ""
+
+#: classes/Cache/Backend/OptimizeDatabase.php:198
+msgctxt "Status message"
+msgid "Tables successfully optimized."
+msgstr ""
+
+#: classes/Cache/Backend/ViewCache.php:255
+msgctxt "Status message"
+msgid
+"&quot;Cache storage&quot; status successfully swapped for selected paths."
+msgstr ""
+
+#: classes/Cache/Backend/ViewCache.php:285
+msgctxt "Status message"
+msgid "Selected paths successfully removed from cache."
+msgstr ""
+
+#: classes/Cache/Backend/ViewCache.php:319
+msgctxt "Status message"
+msgid "Selected paths successfully marked for cache refresh."
+msgstr ""
+
+#: templates/about.html.php:1
+msgctxt "Top headline"
+msgid "OSO Super Cache &rsaquo; About"
+msgstr ""
+
+#: templates/about.html.php:4
+msgctxt "Tab title"
+msgid "About"
+msgstr ""
+
+#: templates/about.html.php:8
+msgctxt "Headline right of icon"
+msgid "About"
+msgstr ""
+
+#: templates/about.html.php:16
+msgctxt "Sub headline"
+msgid "About OSO Super Cache"
+msgstr ""
+
+#: templates/about.html.php:18
+msgctxt "About Text"
+msgid
+"OSO Super Cache delivers your content to visitors in milliseconds. It "
+"reduces server load and saves bandwidth through browser caching, merging "
+"of CSS and JavaScript files, minification and compression."
+msgstr ""
+
+#: templates/about.html.php:19
+msgctxt "About Text"
+msgid "Features you get with OSO Super Cache:"
+msgstr ""
+
+#: templates/about.html.php:21
+msgctxt "About Text"
+msgid "Page Caching - caches pages, posts, feeds, CSS, JavaScript, etc."
+msgstr ""
+
+#: templates/about.html.php:22
+msgctxt "About Text"
+msgid "Google Page Speed Ranking Improvement"
+msgstr ""
+
+#: templates/about.html.php:23
+msgctxt "About Text"
+msgid "Search Result Caching"
+msgstr ""
+
+#: templates/about.html.php:24
+msgctxt "About Text"
+msgid "Cache Preloading (Pro Version)"
+msgstr ""
+
+#: templates/about.html.php:25
+msgctxt "About Text"
+msgid "Individual Cache Lifetimes (extended in Pro Version)"
+msgstr ""
+
+#: templates/about.html.php:26
+msgctxt "About Text"
+msgid "Merging JavaScript Files"
+msgstr ""
+
+#: templates/about.html.php:27
+msgctxt "About Text"
+msgid "Merging CSS Files"
+msgstr ""
+
+#: templates/about.html.php:28
+msgctxt "About Text"
+msgid
+"Tidy HTML - removes HTML comments and unnecessary whitespace from posts, "
+"pages, etc."
+msgstr ""
+
+#: templates/about.html.php:29
+msgctxt "About Text"
+msgid
+"GZIP Compression - reduces bandwidth for your posts, pages, feed, CSS, "
+"JavaScript etc."
+msgstr ""
+
+#: templates/about.html.php:30
+msgctxt "About Text"
+msgid "Header Management - ETag, Last-Modified, Cache-Control, Expires"
+msgstr ""
+
+#: templates/about.html.php:31
+msgctxt "About Text"
+msgid "Database Optimization"
+msgstr ""
+
+#: templates/about.html.php:32
+msgctxt "About Text"
+msgid "Fragment Caching - allows dynamic content in static files"
+msgstr ""
+
+#: templates/about.html.php:33
+msgctxt "About Text"
+msgid "DNS-Prefetching"
+msgstr ""
+
+#: templates/about.html.php:34
+msgctxt "About Text"
+msgid "Multisite Compatibility"
+msgstr ""
+
+#: templates/about.html.php:35
+msgctxt "About Text"
+msgid "Multilingual Compatibility"
+msgstr ""
+
+#: templates/about.html.php:36
+msgctxt "About Text"
+msgid "Ecommerce Friendly"
+msgstr ""
+
+#: templates/about.html.php:37
+msgctxt "About Text"
+msgid "Import/Export - use your settings easily on your other sites"
+msgstr ""
+
+#: templates/about.html.php:40
+msgctxt "Sub headline"
+msgid "Copyright"
+msgstr ""
+
+#: templates/about.html.php:41
+msgctxt "About Text"
+msgid
+"OSO Super Cache is intellectual property of OSO Super Cache - OSO Web Studio. "
+"&copy; All rights reserved, OSO Super Cache."
+msgstr ""
+
+#: templates/about.html.php:43
+msgctxt "Sub headline"
+msgid "Icon Design"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:3
+msgctxt "AS Browser - Headline right of icon"
+msgid "Browser"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:12
+msgctxt "AS Browser - Setting page description"
+msgid
+"The configured header settings are applied to JavaScript and CSS files if "
+"they have merging and compression activated."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:18
+msgctxt "AS Browser - Headline of a fieldset"
+msgid "Header"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:21
+msgctxt "AS Browser - Setting title"
+msgid "Cache-Control header"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:24
+#: templates/advanced-settings-browser.html.php:66
+#: templates/advanced-settings-browser.html.php:76
+#: templates/advanced-settings-browser.html.php:86
+#: templates/advanced-settings-browser.html.php:96
+#: templates/advanced-settings-browser.html.php:107
+#: templates/advanced-settings-browser.html.php:123
+#: templates/advanced-settings-browser.html.php:140
+#: templates/advanced-settings-browser.html.php:150
+#: templates/advanced-settings-browser.html.php:190
+#: templates/advanced-settings-browser.html.php:222
+#: templates/advanced-settings-browser.html.php:232
+#: templates/advanced-settings-cache-lifetimes.html.php:22
+#: templates/advanced-settings-cache-lifetimes.html.php:33
+#: templates/advanced-settings-cache-lifetimes.html.php:43
+#: templates/advanced-settings-cache-lifetimes.html.php:53
+#: templates/advanced-settings-cache-lifetimes.html.php:63
+#: templates/advanced-settings-cache-lifetimes.html.php:73
+#: templates/advanced-settings-cache-lifetimes.html.php:83
+#: templates/advanced-settings-css.html.php:22
+#: templates/advanced-settings-css.html.php:32
+#: templates/advanced-settings-css.html.php:42
+#: templates/advanced-settings-css.html.php:52
+#: templates/advanced-settings-css.html.php:62
+#: templates/advanced-settings-css.html.php:98
+#: templates/advanced-settings-debug.html.php:22
+#: templates/advanced-settings-general.html.php:22
+#: templates/advanced-settings-general.html.php:83
+#: templates/advanced-settings-general.html.php:93
+#: templates/advanced-settings-general.html.php:103
+#: templates/advanced-settings-general.html.php:113
+#: templates/advanced-settings-general.html.php:123
+#: templates/advanced-settings-general.html.php:133
+#: templates/advanced-settings-general.html.php:182
+#: templates/advanced-settings-general.html.php:207
+#: templates/advanced-settings-html.html.php:22
+#: templates/advanced-settings-html.html.php:32
+#: templates/advanced-settings-image.html.php:25
+#: templates/advanced-settings-javascript.html.php:22
+#: templates/advanced-settings-javascript.html.php:32
+#: templates/advanced-settings-javascript.html.php:42
+#: templates/advanced-settings-javascript.html.php:52
+#: templates/advanced-settings-javascript.html.php:62
+#: templates/advanced-settings-javascript.html.php:72
+#: templates/advanced-settings-javascript.html.php:82
+#: templates/cdn-settings.html.php:27 templates/dashboard.html.php:28
+#: templates/fragments.html.php:30
+msgctxt "Setting checkbox"
+msgid "Activate"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:26
+msgctxt "AS Browser - Setting description"
+msgid
+"The configured <strong>Cache-Control policy</strong> header is sent to the "
+"browser."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:32
+msgctxt "AS Browser - Setting title"
+msgid "Cache-Control policy"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:36
+msgctxt "AS Browser - Select option"
+msgid "public"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:37
+msgctxt "AS Browser - Select option"
+msgid "private"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:38
+msgctxt "AS Browser - Select option"
+msgid "public-max-age"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:39
+msgctxt "AS Browser - Select option"
+msgid "private-max-age"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:40
+msgctxt "AS Browser - Select option"
+msgid "no-cache"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:42
+msgctxt "AS Browser - Setting description"
+msgid "Sends <strong>Cache-Control</strong> with your configured policy."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:48
+msgctxt "AS Browser - Setting title"
+msgid "Max-Age / Max Lifetime"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:52
+msgctxt "AS Browser - Setting description"
+msgid "Max lifetime in seconds before the browser requests the file again."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:53
+msgctxt "AS Browser - Setting description"
+msgid "Examples:"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:54
+msgctxt "AS Browser - Setting description"
+msgid "<strong>1 Hour</strong>: 3600"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:55
+msgctxt "AS Browser - Setting description"
+msgid "<strong>12 Hours</strong>: 43200"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:56
+msgctxt "AS Browser - Setting description"
+msgid "<strong>1 Day</strong>: 86400"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:57
+msgctxt "AS Browser - Setting description"
+msgid "<strong>1 Month</strong>: 2592000"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:58
+msgctxt "AS Browser - Setting description"
+msgid "<strong>1 Year</strong>: 31536000"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:63
+msgctxt "AS Browser - Setting title"
+msgid "Last-Modified"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:68
+msgctxt "AS Browser - Setting description"
+msgid "Sends <strong>Last-Modified</strong> header."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:73
+msgctxt "AS Browser - Setting title"
+msgid "ETag"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:78
+msgctxt "AS Browser - Setting description"
+msgid "Sends <strong>ETag</strong> header."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:83
+msgctxt "AS Browser - Setting title"
+msgid "OSO Super Cache Tag"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:88
+msgctxt "AS Browser - Setting description"
+msgid
+"Sends <strong>X-Powered-By: OSO Super Cache</strong> header in order to "
+"identify which files are delivered by OSO Super Cache."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:93
+msgctxt "AS Browser - Setting title"
+msgid "Headers on dynamic content"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:98
+msgctxt "AS Browser - Setting description"
+msgid "All configured header settings are applied to pages as well."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:99
+msgctxt "AS Browser - Setting description"
+msgid
+"Notice: <strong>Max-Age / Max Lifetime</strong> value will be ignored for "
+"dynamic content; instead the configured lifetime from <strong>Cache "
+"Lifetimes</strong> will be used."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:104
+msgctxt "AS Browser - Setting title"
+msgid "Modify .htaccess"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:109
+msgctxt "AS Browser - Setting description"
+msgid
+"Adds cache settings like lifetime and compression for static files into "
+"the .htaccess file. Does not work multisite independent."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:117
+msgctxt "Headline of a fieldset"
+msgid "DNS-Prefetching"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:120
+msgctxt "AS Browser - Setting title"
+msgid "DNS-Prefetching"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:125
+msgctxt "AS Browser - Setting description"
+msgid
+"<strong>X-DNS-Prefetch-Control: on</strong> header will be sent and "
+"<strong>&lt;link rel=&quot;dns-prefetch&quot; ...&gt;</strong> will be "
+"placed in <strong>&lt;head&gt;</strong>."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:126
+msgctxt "AS Browser - Setting description"
+msgid
+"Requires <strong>Headers on dynamic content</strong> as well as JavaScript/"
+"CSS merging to be activated."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:134
+msgctxt "AS Browser - Headline of a fieldset"
+msgid "Security Header"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:137
+msgctxt "AS Browser - Setting title"
+msgid "Enable security header"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:142
+msgctxt "AS Browser - Setting description"
+msgid
+"Adds security header settings into the .htaccess. Does not work multisite "
+"independent. See io/kb/not-work-multisite-"
+"indepentent/\" rel="
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:147
+msgctxt "AS Browser - Setting title"
+msgid "Content-Security-Policy header"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:152
+msgctxt "AS Browser - Setting description"
+msgid
+"The configured <strong>Content-Security-Policy</strong> is sent to the "
+"browser."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:158
+msgctxt "AS Browser - Setting title"
+msgid "Content-Security-Policy configuration"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:162
+msgctxt "AS Browser - Setting description"
+msgid
+"Notice: This option is for experienced users. Making a mistake here can "
+"break your site. If your site breaks after you activated this option, open "
+"your <strong>.htaccess</strong> and remove everything between <strong># "
+"BEGIN Security OSO Super Cache</strong> and <strong># END Security OSO Super Cache "
+"Cache</strong>. See io/kb/content-security-"
+"policy/\" rel="
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:168
+msgctxt "AS Browser - Setting title"
+msgid "Referrer-Policy"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:172
+msgctxt "AS Browser - Select option"
+msgid "no Referrer-Policy"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:173
+msgctxt "AS Browser - Select option"
+msgid "no-referrer"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:174
+msgctxt "AS Browser - Select option"
+msgid "no-referrer-when-downgrade"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:175
+msgctxt "AS Browser - Select option"
+msgid "same-origin"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:176
+msgctxt "AS Browser - Select option"
+msgid "origin"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:177
+msgctxt "AS Browser - Select option"
+msgid "strict-origin"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:178
+msgctxt "AS Browser - Select option"
+msgid "origin-when-cross-origin"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:179
+msgctxt "AS Browser - Select option"
+msgid "strict-origin-when-cross-origin"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:180
+msgctxt "AS Browser - Select option"
+msgid "unsafe-url"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:182
+msgctxt "AS Browser - Setting description"
+msgid "This header determines the circumstances in which a referrer is sent."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:187
+msgctxt "AS Browser - Setting title"
+msgid "Strict-Transport-Security"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:192
+msgctxt "AS Browser - Setting description"
+msgid "Ensures that all your traffic is sent through HTTPS."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:197
+msgctxt "AS Browser - Setting title"
+msgid "X-Frame-Options"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:201
+msgctxt "AS Browser - Setting description"
+msgid "Do not send X-Frame-Options"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:214
+msgctxt "AS Browser - Setting description"
+msgid
+"Disallow others to embed your site using &lt;frame&gt;, &lt;iframe&gt;, or "
+"&lt;object&gt;."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:219
+msgctxt "AS Browser - Setting title"
+msgid "X-Content-Type-Options"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:224
+msgctxt "AS Browser - Setting description"
+msgid "Disable MIME type sniffing."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:229
+msgctxt "AS Browser - Setting title"
+msgid "X-XSS-Protection"
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:234
+msgctxt "AS Browser - Setting description"
+msgid
+"This header improves the security of your site against some types of XSS "
+"(Cross-Site-Scripting) attacks."
+msgstr ""
+
+#: templates/advanced-settings-browser.html.php:242
+#: templates/advanced-settings-cache-exceptions.html.php:80
+#: templates/advanced-settings-cache-exceptions.html.php:110
+#: templates/advanced-settings-css.html.php:106
+#: templates/advanced-settings-css.html.php:132
+#: templates/advanced-settings-debug.html.php:30
+#: templates/advanced-settings-general.html.php:167
+#: templates/advanced-settings-general.html.php:188
+#: templates/advanced-settings-general.html.php:228
+#: templates/advanced-settings-html.html.php:40
+#: templates/advanced-settings-image.html.php:59
+#: templates/advanced-settings-javascript.html.php:158
+#: templates/advanced-settings-miscellaneous.html.php:90
+#: templates/advanced-settings-miscellaneous.html.php:128
+#: templates/advanced-settings-miscellaneous.html.php:166
+#: templates/cdn-settings.html.php:62 templates/fragments.html.php:49
+msgctxt "Button title"
+msgid "Save settings"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:3
+msgctxt "AS Cache Exceptions - Headline right of icon"
+msgid "Cache Exceptions"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:16
+msgctxt "AS Cache Exceptions - Headline of a fieldset"
+msgid "Don't cache settings"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:18
+msgctxt "AS Cache Exceptions - Fieldset description"
+msgid "Exceptions here cause a page not to be cached."
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:22
+msgctxt "AS Cache Exceptions - Setting title"
+msgid "Don't cache pages with query string"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:26
+msgctxt "AS Cache Exceptions - Setting description"
+msgid
+"One query variable per line. If you need to exclude a query variable that "
+"is a key of an array, you have to use JSON"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:32
+msgctxt "AS Cache Exceptions - Setting title"
+msgid "Don't cache the following pages"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:36
+msgctxt "AS Cache Exceptions - Setting description"
+msgid
+"One path per line. You can use regular expressions."
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:41
+msgctxt "AS Cache Exceptions - Setting title"
+msgid "Don't cache these post types"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:62
+msgctxt "AS Cache Exceptions - Setting title"
+msgid "Don't cache these taxonomies"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:86
+msgctxt "AS Cache Exceptions - Headline of a fieldset"
+msgid "Don't use cache settings"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:88
+msgctxt "AS Cache Exceptions - Fieldset description"
+msgid "Exceptions here cause the visitor to receive an uncached page."
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:92
+msgctxt "AS Cache Exceptions - Setting title"
+msgid "User Agent"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:96
+msgctxt "AS Cache Exceptions - Setting description"
+msgid
+"One user agent per line. If the user agent matches the visitor’s user "
+"agent, the visitor does not receive a cached page."
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:102
+msgctxt "AS Cache Exceptions - Setting title"
+msgid "Cookie"
+msgstr ""
+
+#: templates/advanced-settings-cache-exceptions.html.php:106
+msgctxt "AS Cache Exceptions - Setting description"
+msgid
+"One cookie name per line. If the visitor’s cookie matches, the visitor "
+"does not receive a cached page."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:3
+msgctxt "AS Cache Lifetimes - Headline right of icon"
+msgid "Cache Lifetimes"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:16
+msgctxt "AS Cache Lifetimes - Headline of a fieldset"
+msgid "Refresh Cache Settings"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:19
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Refresh when published"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:24
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "Automatically refreshes the cache of the post when it's published."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:25
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"This will increase the time to save a post, but the post is immediately "
+"cached."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:30
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Refresh homepage when post published"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:35
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"Automatically refreshes the cache of the homepage when a post is published."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:40
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Refresh corresponding archives when the post is published"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:45
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"Automatically refreshes the cache of the archives when a post is "
+"published. Only archives of the same post type as the post will be "
+"refreshed."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:50
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Refresh feeds when post published"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:55
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "Refreshes the cache of all feeds when a post is published."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:60
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Refresh after comment"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:65
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "Refreshes the cache of the page on which the comment was entered."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:70
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Show Meta Box"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:75
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "Shows meta box with options for cache refresh and cache exclusion."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:80
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Show Refresh Option in QuickEdit"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:85
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "Shows the option to refresh the cache in the QuickEdit."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:93
+msgctxt "AS Cache Lifetimes - Headline of a fieldset"
+msgid "Default Lifetime Settings"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:97
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Home"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:101
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"Max lifetime in seconds before OSO Super Cache refreshes the cached page."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:102
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "Examples:"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:103
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "<strong>1 Hour</strong>: 3600"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:104
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "<strong>12 Hours</strong>: 43200"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:105
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "<strong>1 Day</strong>: 86400"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:106
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "<strong>1 Month</strong>: 2592000"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:107
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid "<strong>1 Year</strong>: 31536000"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:113
+#: templates/advanced-settings-cache-lifetimes.html.php:190
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Archives"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:117
+#: templates/advanced-settings-cache-lifetimes.html.php:197
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"Max lifetime in seconds before OSO Super Cache refreshes the cached archive "
+"page. Archives are pages which lists many posts."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:123
+#: templates/advanced-settings-cache-lifetimes.html.php:208
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Posts"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:127
+#: templates/advanced-settings-cache-lifetimes.html.php:215
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"Max lifetime in seconds before OSO Super Cache refreshes the cached post. A "
+"post is a single page."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:133
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Feeds"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:137
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"Max lifetime in seconds before OSO Super Cache refreshes the cached feed."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:143
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "404 (not found)"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:147
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"Max lifetime in seconds before OSO Super Cache removes a 404 page from the "
+"cache index."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:153
+msgctxt "AS Cache Lifetimes - Setting title"
+msgid "Garbage Collector"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:157
+msgctxt "Garbage Collector - Setting description"
+msgid "Max lifetime in seconds before OSO Super Caches deletes a cached page."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:158
+msgctxt "Garbage Collector - Setting description"
+msgid
+"This only happens to cached pages that have been deleted in WordPress but "
+"still exist in OSO Super Cache. The garbage collector deletes these files "
+"after the given lifetime."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:159
+msgctxt "Garbage Collector - Setting description"
+msgid "This lifetime should be much higher than the other lifetimes."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:166
+#: templates/advanced-settings-cache-lifetimes.html.php:227
+#: templates/dashboard.html.php:64
+msgctxt "Button title"
+msgid "Save all settings"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:172
+msgctxt "AS Cache Lifetimes - Headline of a fieldset"
+msgid "Lifetime Settings"
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:173
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"You can set different lifetimes for each post type. Leave the field empty "
+"or enter <strong>0</strong> if you want to use the default settings."
+msgstr ""
+
+#: templates/advanced-settings-cache-lifetimes.html.php:174
+msgctxt "AS Cache Lifetimes - Setting description"
+msgid
+"If you don't want to cache a specific post type, you can exclude this post "
+"type under <strong>Cache Exceptions</strong>."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:3
+msgctxt "AS CSS - Headline right of icon"
+msgid "CSS"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:16
+msgctxt "AS CSS - Headline of a fieldset"
+msgid "Optimization"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:19
+msgctxt "AS CSS - Setting title"
+msgid "Merge"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:24
+msgctxt "AS CSS - Setting description"
+msgid "Merges all local registered CSS files into a single file."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:29
+msgctxt "AS CSS - Setting title"
+msgid "Exclude &lt;style&gt;-Tags"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:34
+msgctxt "AS CSS - Setting description"
+msgid "CSS from &lt;style&gt;-tags are not be merged."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:39
+msgctxt "AS CSS - Setting title"
+msgid "Minify"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:44
+msgctxt "AS CSS - Setting description"
+msgid "Minifies merged CSS."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:49
+msgctxt "AS CSS - Setting title"
+msgid "Preload Tag"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:54
+msgctxt "AS CSS - Setting description"
+msgid
+"Adds a &lt;link rel=\"preload\"...&gt; tag in &lt;head&gt; for faster "
+"loading."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:59
+msgctxt "AS CSS - Setting title"
+msgid "Compress"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:64
+msgctxt "AS CSS - Setting description"
+msgid
+"Sends compressed CSS to the browser. Requires <strong>Merge</strong> to be "
+"activated."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:65
+#: templates/advanced-settings-javascript.html.php:85
+msgctxt "Compression - Setting description"
+msgid
+"<strong>Note</strong>: We recommend not to activate this option. Instead, "
+"activate the option <strong>Modify .htaccess</strong> in <a href=\"?"
+"page=oso-super-cache-advanced-settings&tab=browser\"><strong>Browser</"
+"strong></a>. It is more efficient than this option."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:71
+#: templates/advanced-settings-general.html.php:141
+#: templates/advanced-settings-javascript.html.php:91
+msgctxt "Compression - Setting title"
+msgid "Compression level"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:78
+#: templates/advanced-settings-general.html.php:148
+#: templates/advanced-settings-javascript.html.php:98
+msgctxt "Compression - Select option"
+msgid "Minimal"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:79
+#: templates/advanced-settings-general.html.php:149
+#: templates/advanced-settings-javascript.html.php:99
+msgctxt "Compression - Select option"
+msgid "Balanced"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:80
+#: templates/advanced-settings-general.html.php:150
+#: templates/advanced-settings-javascript.html.php:100
+msgctxt "Compression - Select option"
+msgid "Maximal"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:82
+#: templates/advanced-settings-general.html.php:152
+#: templates/advanced-settings-javascript.html.php:102
+msgctxt "Compression - Setting description"
+msgid
+"<strong>Minimal</strong>: processing increased &asymp; 2.5-times, file "
+"size reduced &asymp; 4.2-times."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:83
+#: templates/advanced-settings-general.html.php:153
+#: templates/advanced-settings-javascript.html.php:103
+msgctxt "Compression - Setting description"
+msgid
+"<strong>Balanced</strong>: processing increased &asymp; 5.5-times, file "
+"size reduced &asymp; 4.8-times."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:84
+#: templates/advanced-settings-general.html.php:154
+#: templates/advanced-settings-javascript.html.php:104
+msgctxt "Compression - Setting description"
+msgid
+"<strong>Maximal</strong>: processing increased &asymp; 7.8-times, file "
+"size reduced &asymp; 4.9-times."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:85
+msgctxt "Compression - Setting description"
+msgid
+"Processing a file before sending it to the browser takes x amount of time "
+"(we are talking about milliseconds). When the option <strong>Compress CSS</"
+"strong> is activated, this time is x-times longer, depending on the "
+"compression option. Given times are an example and will vary."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:95
+msgctxt "AS CSS - Setting title"
+msgid "Optimize Google Fonts"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:100
+msgctxt "AS CSS - Setting description"
+msgid "Optimizes embedding of multiple fonts from Google."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:112
+msgctxt "AS CSS - Headline of a fieldset"
+msgid "Positioning"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:115
+msgctxt "AS CSS - Setting title"
+msgid "Style Position"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:119
+msgctxt "AS CSS - Setting description"
+msgid "After &lt;head&gt;"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:124
+msgctxt "AS CSS - Setting description"
+msgid "Before &lt;/head&gt;"
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:127
+msgctxt "AS CSS - Setting description"
+msgid
+"<strong>After</strong>: The &lt;link&gt;-tag to the local CSS file is "
+"placed after the &lt;head&gt;-tag."
+msgstr ""
+
+#: templates/advanced-settings-css.html.php:128
+msgctxt "AS CSS - Setting description"
+msgid
+"<strong>Before</strong>: The &lt;link&gt;-tag to the local CSS file is "
+"placed before the &lt;/head&gt;-tag."
+msgstr ""
+
+#: templates/advanced-settings-debug.html.php:3
+msgctxt "AS Debug - Headline right of icon"
+msgid "Debug"
+msgstr ""
+
+#: templates/advanced-settings-debug.html.php:16
+msgctxt "AS Debug - Headline of a fieldset"
+msgid "Debug"
+msgstr ""
+
+#: templates/advanced-settings-debug.html.php:19
+msgctxt "AS Debug - Setting title"
+msgid "Add Cache Information"
+msgstr ""
+
+#: templates/advanced-settings-debug.html.php:24
+msgctxt "AS Debug - Setting description"
+msgid
+"Adds an HTML-comment at the bottom of the page with information about the "
+"cached page."
+msgstr ""
+
+#: templates/advanced-settings-debug.html.php:35
+msgctxt "AS Debug - Headline"
+msgid "Debug-Log"
+msgstr ""
+
+#: templates/advanced-settings-debug.html.php:36
+msgctxt "AS Debug - Setting description"
+msgid
+"Place this code in your wp-config.php to log when OSO Super Cache is merging "
+"the JavaScript and CSS."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:3
+msgctxt "AS General - Headline right of icon"
+msgid "General"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:16
+msgctxt "AS General - Headline of a fieldset"
+msgid "Basic Settings"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:19
+msgctxt "AS General - Setting title"
+msgid "Activate OSO Super Cache"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:24
+msgctxt "AS General - Setting description"
+msgid "When activated, OSO Super Cache starts caching your website."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:25
+msgctxt "AS General - Setting description"
+msgid "If deactivated, the site behaves as before."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:31
+msgctxt "AS General - Setting title"
+msgid "Late Initialization"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:35
+msgctxt "Select option"
+msgid "No Late Initialization"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:36
+msgctxt "Select option"
+msgid "Late"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:37
+msgctxt "Select option"
+msgid "Super Late"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:39
+msgctxt "AS General - Setting description"
+msgid
+"<strong>No Late Initialization</strong>: Recommended for maximum "
+"performance. Uses <strong>plugins_loaded</strong> for initialization."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:40
+msgctxt "AS General - Setting description"
+msgid
+"<strong>Late</strong>: Less performance boost but more compatibility. Uses "
+"<strong>wp_loaded</strong> for initialization."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:41
+msgctxt "AS General - Setting description"
+msgid
+"<strong>Super Late</strong>: Much less performance boost, but maximum "
+"compatibility. When you have to activate this option, we recommend you "
+"that to optimize your scripts and plugins. Uses <strong>wp</strong> for "
+"initialization."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:47
+msgctxt "AS General - Setting title"
+msgid "Max simultaneous tasks"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:51
+msgctxt "AS General - Setting description"
+msgid
+"Maximum simultaneous tasks that can run to cache and optimize an uncached "
+"page."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:59
+msgctxt "AS General - Headline of a fieldset"
+msgid "Cache Settings"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:63
+msgctxt "AS General - Setting title"
+msgid "Separate cache files"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:67
+msgctxt "Select option"
+msgid "Disabled"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:68
+msgctxt "Select option"
+msgid "Mobile"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:69
+msgctxt "Select option"
+msgid "Mobile & Tablet"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:71
+msgctxt "AS General - Setting description"
+msgid
+"<strong>Disabled</strong>: No separate cache file for mobile devices. "
+"Recommended option."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:72
+msgctxt "AS General - Setting description"
+msgid
+"<strong>Mobile</strong>: OSO Super Cache creates a separate cache file for "
+"mobile devices (smartphones)."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:73
+msgctxt "AS General - Setting description"
+msgid
+"<strong>Mobile &amp; Tablet</strong>: OSO Super Cache creates two separate "
+"cache files for mobile devices (smartphones) and tablets."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:74
+msgctxt "AS General - Setting description"
+msgid
+"Use this option only if you do not have a responsive design and mobile "
+"devices receive a different design."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:75
+msgctxt "AS General - Setting description"
+msgid
+"<strong>Note</strong>: We do not recommend this option due double/triple "
+"amount of cache files. You should switch to a responsive design as soon as "
+"possible."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:80
+msgctxt "AS General - Setting title"
+msgid "Logged-in Users"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:85
+msgctxt "AS General - Setting description"
+msgid "Logged-in users receive cached pages."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:90
+msgctxt "AS General - Setting title"
+msgid "Search results"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:95
+msgctxt "AS General - Setting description"
+msgid "Search requests and results are cached."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:100
+msgctxt "AS General - Setting title"
+msgid "Pages with query strings"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:105
+msgctxt "AS General - Setting description"
+msgid
+"Pages with query strings (e.g. ?orderSomething=DESC) are cached. The query "
+"var must be registered in <strong>query_vars</strong> respectively <strong>"
+"$wp_query</strong>."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:110
+msgctxt "AS General - Setting title"
+msgid "Feeds"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:115
+msgctxt "AS General - Setting description"
+msgid "All feeds will be cached."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:120
+msgctxt "AS General - Setting title"
+msgid "404 (not found)"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:125
+msgctxt "AS General - Setting description"
+msgid "All requests to non-existent pages receive a single cached 404 page."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:130
+msgctxt "AS General - Setting title"
+msgid "Compress pages"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:135
+msgctxt "AS General - Setting description"
+msgid "Send compressed pages to the browser."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:155
+msgctxt "Compression - Setting description"
+msgid
+"Processing a file before sending it to the browser takes x amount of time "
+"(we are talking about milliseconds). When the option <strong>Compress "
+"pages</strong> is activated, this time is x-times longer, depending on the "
+"compression option. Given times are an example and will vary."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:173
+msgctxt "AS General - Headline of a fieldset"
+msgid "Cache Preloader Settings"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:179
+msgctxt "AS General - Setting title"
+msgid "Cache Preloader"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:184
+msgctxt "AS General - Setting description"
+msgid
+"Activates the Cache Preloader which preloads your pages as soon as their "
+"lifetime is over."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:198
+msgctxt "AS General - Headline of a fieldset"
+msgid "Cron Settings"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:204
+msgctxt "AS General - Setting title"
+msgid "Cron Service"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:209
+msgctxt "AS General - Setting description"
+msgid "Activates OSO Super Cache Cron Service."
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:215
+msgctxt "AS General - Setting title"
+msgid "Cron Runtimes"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:219
+msgctxt "Select option"
+msgid "Every 5 Minutes"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:220
+msgctxt "Select option"
+msgid "Every 10 Minutes"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:221
+msgctxt "Select option"
+msgid "Every 15 Minutes"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:222
+msgctxt "Select option"
+msgid "Every 30 Minutes"
+msgstr ""
+
+#: templates/advanced-settings-general.html.php:224
+msgctxt "AS General - Setting description"
+msgid
+"With OSO Super Cache activated, you need a cronjob service to run WordPress "
+"wp-cron.php. If you already use a cronjob service or have setup a cronjob, "
+"you don't need to activate our cron service."
+msgstr ""
+
+#: templates/advanced-settings-html.html.php:3
+msgctxt "AS HTML - Headline right of icon"
+msgid "HTML"
+msgstr ""
+
+#: templates/advanced-settings-html.html.php:16
+msgctxt "AS HTML - Headline of a fieldset"
+msgid "Optimization"
+msgstr ""
+
+#: templates/advanced-settings-html.html.php:19
+msgctxt "AS HTML - Setting title"
+msgid "Remove HTML Comments"
+msgstr ""
+
+#: templates/advanced-settings-html.html.php:24
+msgctxt "AS HTML - Setting description"
+msgid
+"Removes all HTML comments like &lt;!-- html comment --&gt;. If you need to "
+"comment something in your code, but don't want to deactivate this option "
+"you can use [ ], e.g. <strong>&lt;!--[ this comment will not be removed ]--"
+"&gt;</strong>."
+msgstr ""
+
+#: templates/advanced-settings-html.html.php:29
+msgctxt "AS HTML - Setting title"
+msgid "Remove Whitespace"
+msgstr ""
+
+#: templates/advanced-settings-html.html.php:34
+msgctxt "AS HTML - Setting description"
+msgid
+"Removes all unnecessary whitespace except for whitespace inside &lt;"
+"pre&gt;, &lt;script&gt;, or &lt;style&gt;."
+msgstr ""
+
+#: templates/advanced-settings-image.html.php:3
+msgctxt "AS Image - Headline right of icon"
+msgid "Image"
+msgstr ""
+
+#: templates/advanced-settings-image.html.php:16
+msgctxt "AS Image - Headline of a fieldset"
+msgid "Optimization"
+msgstr ""
+
+#: templates/advanced-settings-image.html.php:19
+msgctxt "AS Image - Setting title"
+msgid "Lazy Load"
+msgstr ""
+
+#: templates/advanced-settings-image.html.php:32
+msgctxt "AS Image - Setting description"
+msgid "Images will be loaded as soon as they enter the browser's viewport."
+msgstr ""
+
+#: templates/advanced-settings-image.html.php:38
+msgctxt "AS Image - Setting title"
+msgid "Exclude CSS classes from Lazy Loading"
+msgstr ""
+
+#: templates/advanced-settings-image.html.php:45
+msgctxt "AS Image - Setting description"
+msgid
+"One CSS class per line. An image having one of the excluded CSS classes "
+"will not used for Lazy Loading."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:3
+msgctxt "AS JavaScript - Headline right of icon"
+msgid "JavaScript"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:16
+msgctxt "AS JavaScript - Headline of a fieldset"
+msgid "Optimization"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:19
+msgctxt "AS JavaScript - Setting title"
+msgid "Merge"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:24
+msgctxt "AS JavaScript - Setting description"
+msgid "Merges all local JavaScript files into a single file."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:29
+msgctxt "AS JavaScript - Setting title"
+msgid "Smart Bundles BETA"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:34
+msgctxt "AS JavaScript - Setting description"
+msgid
+"Merges local JavaScript files into smart bundles. Increases number of "
+"JavaScript files but improves cacheability."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:39
+msgctxt "AS JavaScript - Setting title"
+msgid "Minify"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:44
+msgctxt "AS JavaScript - Setting description"
+msgid "Minifies merged JavaScript."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:49
+msgctxt "AS JavaScript - Setting title"
+msgid "Defer"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:54
+msgctxt "AS JavaScript - Setting description"
+msgid
+"Merged and external JavaScript is executed after the page has finished "
+"parsing. Does not work in Internet Explorer 10 or older."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:59
+msgctxt "AS JavaScript - Setting title"
+msgid "Preload Tag"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:64
+msgctxt "AS JavaScript - Setting description"
+msgid
+"Adds &lt;link rel=\"preload\"...&gt; tags in &lt;head&gt; for faster "
+"loading."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:69
+msgctxt "AS JavaScript - Setting title"
+msgid "Fix JavaScript"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:74
+msgctxt "AS JavaScript - Setting description"
+msgid
+"Adds missing semicolons. When merging JavaScript, it may happen that the "
+"JavaScript will not be executed afterwards. This is often due to a missing "
+"semicolon in the JavaScript."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:79
+msgctxt "AS JavaScript - Setting title"
+msgid "Compress"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:84
+msgctxt "AS JavaScript - Setting description"
+msgid
+"Sends compressed JavaScript to the browser. Requires <strong>Merge</"
+"strong> to be activated."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:105
+msgctxt "Compression - Setting description"
+msgid
+"Processing a file before sending it to the browser takes x amount of time "
+"(we are talking about milliseconds). When the option <strong>Compress "
+"JavaScript</strong> is activated, this time is x-times longer, depending "
+"on the compression option. Given times are an example and will vary."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:118
+msgctxt "AS JavaScript - Headline of a fieldset"
+msgid "Positioning"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:121
+msgctxt "AS JavaScript - Setting title"
+msgid "Script Location"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:125
+msgctxt "AS JavaScript - Setting description"
+msgid "Header"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:130
+msgctxt "AS JavaScript - Setting description"
+msgid "Footer"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:133
+msgctxt "AS JavaScript - Setting description"
+msgid "<strong>Header</strong>: The JavaScript is placed in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:134
+msgctxt "AS JavaScript - Setting description"
+msgid
+"<strong>Footer</strong>: The JavaScript is placed before &lt;/body&gt;."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:139
+msgctxt "AS JavaScript - Setting title"
+msgid "External Script Position"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:143
+msgctxt "AS JavaScript - Setting description"
+msgid "Before"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:148
+msgctxt "AS JavaScript - Setting description"
+msgid "After"
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:151
+msgctxt "AS JavaScript - Setting description"
+msgid
+"<strong>Before</strong>: The external JavaScript is placed before the "
+"local JavaScript (recommended)."
+msgstr ""
+
+#: templates/advanced-settings-javascript.html.php:152
+msgctxt "AS JavaScript - Setting description"
+msgid
+"<strong>After</strong>: The external JavaScript is placed after the local "
+"JavaScript."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:3
+msgctxt "AS Miscellaneous - Headline right of icon"
+msgid "Miscellaneous"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:16
+msgctxt "AS Miscellaneous - Headline of a fieldset"
+msgid "WordPress"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:19
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Emojis"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:22
+#: templates/advanced-settings-miscellaneous.html.php:32
+#: templates/advanced-settings-miscellaneous.html.php:42
+#: templates/advanced-settings-miscellaneous.html.php:52
+#: templates/advanced-settings-miscellaneous.html.php:62
+#: templates/advanced-settings-miscellaneous.html.php:72
+#: templates/advanced-settings-miscellaneous.html.php:82
+#: templates/advanced-settings-miscellaneous.html.php:102
+#: templates/advanced-settings-miscellaneous.html.php:112
+#: templates/advanced-settings-miscellaneous.html.php:122
+#: templates/advanced-settings-miscellaneous.html.php:140
+#: templates/advanced-settings-miscellaneous.html.php:150
+msgctxt "Setting checkbox"
+msgid "Disable"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:24
+msgctxt "AS Miscellaneous - Setting description"
+msgid "Disables the loading of the emoji JavaScript."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:29
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Feeds"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:34
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;link rel=&quot;alternate&quot; ... href=&quot;.../feed/"
+"&quot; ...&gt; in &lt;head&gt; for the feed and comment feed."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:39
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Manifest"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:44
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;link rel=&quot;wlwmanifest&quot; ...&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:49
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Meta-Generator"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:54
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;meta name=&quot;generator&quot; content=&quot;"
+"WordPress ...&quot;&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:59
+msgctxt "AS Miscellaneous - Setting title"
+msgid "oEmbed"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:64
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;link rel=&quot;application/json+oembed&quot; "
+"href=&quot;...&quot;&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:69
+msgctxt "AS Miscellaneous - Setting title"
+msgid "REST API"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:74
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;link rel=&quot;https://api.w.org/&quot; href=&quot;..."
+"&quot;&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:79
+msgctxt "AS Miscellaneous - Setting title"
+msgid "RSD"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:84
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;link rel=&quot;EditURI&quot; type=&quot;application/rsd"
+"+xml&quot; ...&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:96
+msgctxt "AS Miscellaneous - Headline of a fieldset"
+msgid "Third-Party Plugins"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:99
+msgctxt "AS Miscellaneous - Setting title"
+msgid "LayerSlider Generator"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:104
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;meta name=&quot;generator&quot; content=&quot;Powered by "
+"LayerSlider ...&quot;&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:109
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Slider Revolution Generator"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:114
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;meta name=&quot;generator&quot; content=&quot;Powered by "
+"Slider Revolution ...&quot;&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:119
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Visual Composer Generator"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:124
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the &lt;meta name=&quot;generator&quot; content=&quot;Powered by "
+"Visual Composer ...&quot;&gt; in &lt;head&gt;."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:134
+msgctxt "AS Miscellaneous - Headline of a fieldset"
+msgid "OSO Super Cache"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:137
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Refresh Cache Notice"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:142
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Disables the notification to refresh the cache after the status of a "
+"plugin or theme has changed."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:147
+msgctxt "AS Miscellaneous - Setting title"
+msgid "Disable toolbar menu item"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:152
+msgctxt "AS Miscellaneous - Setting description"
+msgid "Disables the menu item of OSO Super Cache in the admin toolbar."
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:157
+msgctxt "AS Miscellaneous - Setting title"
+msgid "NGINX Server"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:160
+msgctxt "Setting checkbox"
+msgid "Enable"
+msgstr ""
+
+#: templates/advanced-settings-miscellaneous.html.php:162
+msgctxt "AS Miscellaneous - Setting description"
+msgid
+"Enable this option when your server is running NGINX to disable .htaccess "
+"message."
+msgstr ""
+
+#: templates/advanced-settings.html.php:1
+msgctxt "Top headline"
+msgid "OSO Super Cache &rsaquo; Advanced Settings"
+msgstr ""
+
+#: templates/advanced-settings.html.php:4
+msgctxt "Tab title"
+msgid "General"
+msgstr ""
+
+#: templates/advanced-settings.html.php:5
+msgctxt "Tab title"
+msgid "HTML"
+msgstr ""
+
+#: templates/advanced-settings.html.php:6
+msgctxt "Tab title"
+msgid "Image"
+msgstr ""
+
+#: templates/advanced-settings.html.php:7
+msgctxt "Tab title"
+msgid "JavaScript"
+msgstr ""
+
+#: templates/advanced-settings.html.php:8
+msgctxt "Tab title"
+msgid "CSS"
+msgstr ""
+
+#: templates/advanced-settings.html.php:9
+msgctxt "Tab title"
+msgid "Cache Lifetimes"
+msgstr ""
+
+#: templates/advanced-settings.html.php:10
+msgctxt "Tab title"
+msgid "Cache Exceptions"
+msgstr ""
+
+#: templates/advanced-settings.html.php:11
+msgctxt "Tab title"
+msgid "Browser"
+msgstr ""
+
+#: templates/advanced-settings.html.php:12
+msgctxt "Tab title"
+msgid "Miscellaneous"
+msgstr ""
+
+#: templates/advanced-settings.html.php:13
+msgctxt "Tab title"
+msgid "Debug"
+msgstr ""
+
+#: templates/advanced-settings.html.php:14
+#: templates/cache-indexing.html.php:5 templates/cdn-settings.html.php:5
+#: templates/dashboard.html.php:5 templates/fragments.html.php:5
+#: templates/optimize-database.html.php:5 templates/view-cache.html.php:6
+msgctxt "Tab title"
+msgid "Support"
+msgstr ""
+
+#: templates/cache-indexing.html.php:1
+msgctxt "Cache Indexing - Top headline"
+msgid "OSO Super Cache &rsaquo; Cache Indexing"
+msgstr ""
+
+#: templates/cache-indexing.html.php:4
+msgctxt "Cache Indexing - Tab title"
+msgid "Cache Indexing"
+msgstr ""
+
+#: templates/cache-indexing.html.php:9
+msgctxt "Cache Indexing - Headline right of icon"
+msgid "Cache Indexing"
+msgstr ""
+
+#: templates/cache-indexing.html.php:16
+msgctxt "Cache Indexing - Setting page description"
+msgid
+"Cache indexing allows you to easily add all your pages to OSO Super Cache "
+"index by reading the URLs from your XML Sitemap."
+msgstr ""
+
+#: templates/cache-indexing.html.php:21
+msgctxt "Cache Indexing - Headline of a fieldset"
+msgid "XML Sitemap"
+msgstr ""
+
+#: templates/cache-indexing.html.php:24
+msgctxt "Cache Indexing - Setting title"
+msgid "XML Sitemap URL"
+msgstr ""
+
+#: templates/cache-indexing.html.php:28
+msgctxt "Cache Indexing - Setting description"
+msgid
+"The URL to your XML Sitemap. Sitemap index files or compressed sitemaps "
+"are not supported but you can enter your sitemap index file URL to get a "
+"list of all your XML Sitemaps."
+msgstr ""
+
+#: templates/cache-indexing.html.php:32
+msgctxt "Cache Indexing - Setting description"
+msgid
+"These sitemaps were detected in your sitemap index file. Click on a "
+"sitemap to automatically populate the XML Sitemap URL field."
+msgstr ""
+
+#: templates/cache-indexing.html.php:52
+msgctxt "Cache Indexing - Setting title"
+msgid "Reset Sitemap Index info"
+msgstr ""
+
+#: templates/cache-indexing.html.php:55 templates/cache-indexing.html.php:71
+#: templates/dashboard.html.php:137
+msgctxt "Setting checkbox"
+msgid "Reset"
+msgstr ""
+
+#: templates/cache-indexing.html.php:57
+msgctxt "Cache Indexing - Setting description"
+msgid "This option resets the information about of all found XML Sitemaps."
+msgstr ""
+
+#: templates/cache-indexing.html.php:68
+msgctxt "Cache Indexing - Setting title"
+msgid "Reset Sitemap info"
+msgstr ""
+
+#: templates/cache-indexing.html.php:73
+msgctxt "Cache Indexing - Setting description"
+msgid
+"This option removes all URLs from the cache indexing list which were found "
+"in your last XML Sitemap."
+msgstr ""
+
+#: templates/cache-indexing.html.php:86 templates/view-cache-404.html.php:90
+#: templates/view-cache-pages.html.php:117
+msgctxt "Button title"
+msgid "Apply"
+msgstr ""
+
+#: templates/cache-indexing.html.php:100
+#, php-format
+msgctxt "Sub headline"
+msgid "URLs of sitemap &#8222;%s&#8220;"
+msgstr ""
+
+#: templates/cache-indexing.html.php:102
+msgctxt "Cache Indexing - Setting page description"
+msgid
+"Click on the button to start adding pages to your cache. If the system "
+"gets stuck just reload the current page and start again."
+msgstr ""
+
+#: templates/cache-indexing.html.php:103
+msgctxt "Cache Indexing - Setting page description"
+msgid
+"Successfully added pages will not be shown on the list after the reload."
+msgstr ""
+
+#: templates/cache-indexing.html.php:106
+msgctxt "Button title part 1"
+msgid "Start"
+msgstr ""
+
+#: templates/cache-indexing.html.php:106
+msgctxt "Button title part 1"
+msgid "Resume"
+msgstr ""
+
+#: templates/cache-indexing.html.php:106
+msgctxt "Button title part 2"
+msgid "indexing and caching"
+msgstr ""
+
+#: templates/cache-indexing.html.php:107
+msgctxt "Button title"
+msgid "Pause"
+msgstr ""
+
+#: templates/cache-indexing.html.php:111
+#, php-format
+msgctxt "Status"
+msgid "Processing page %s of %s"
+msgstr ""
+
+#: templates/cache-indexing.html.php:118
+msgctxt "Table head"
+msgid "URL"
+msgstr ""
+
+#: templates/cache-indexing.html.php:119
+msgctxt "Table head"
+msgid "Time to create cache"
+msgstr ""
+
+#: templates/cache-indexing.html.php:120
+msgctxt "Table head"
+msgid "Status"
+msgstr ""
+
+#: templates/cache-indexing.html.php:143
+msgctxt "Status"
+msgid "Page was added to cache"
+msgstr ""
+
+#: templates/cache-indexing.html.php:144
+msgctxt "Status"
+msgid "Page is currently processed"
+msgstr ""
+
+#: templates/cache-indexing.html.php:145
+msgctxt "Status"
+msgid "Page was not added to the cache yet"
+msgstr ""
+
+#: templates/cache-indexing.html.php:146
+msgctxt "Status"
+msgid "Page could not be added to the cache"
+msgstr ""
+
+#: templates/cache-indexing.html.php:160 templates/dashboard.html.php:95
+#: templates/dashboard.html.php:99 templates/view-cache-404.html.php:62
+#: templates/view-cache-404.html.php:63
+#: templates/view-cache-pages.html.php:68
+#: templates/view-cache-pages.html.php:69
+msgctxt "Datetime"
+msgid "sec"
+msgstr ""
+
+#: templates/cdn-settings.html.php:1
+msgctxt "CDN - Top headline"
+msgid "OSO Super Cache &rsaquo; CDN"
+msgstr ""
+
+#: templates/cdn-settings.html.php:4
+msgctxt "CDN - Tab title"
+msgid "CDN"
+msgstr ""
+
+#: templates/cdn-settings.html.php:9
+msgctxt "CDN - Headline right of icon"
+msgid "CDN"
+msgstr ""
+
+#: templates/cdn-settings.html.php:21
+msgctxt "CDN - Headline of a fieldset"
+msgid "CDN"
+msgstr ""
+
+#: templates/cdn-settings.html.php:24
+msgctxt "CDN - Setting title"
+msgid "CDN"
+msgstr ""
+
+#: templates/cdn-settings.html.php:29
+msgctxt "CDN - Setting description"
+msgid "Activate to deliver your static assets through a CDN."
+msgstr ""
+
+#: templates/cdn-settings.html.php:35
+msgctxt "CDN - Setting title"
+msgid "CDN Provider"
+msgstr ""
+
+#: templates/cdn-settings.html.php:39
+msgctxt "CDN - Select option"
+msgid "StackPath (MaxCDN)"
+msgstr ""
+
+#: templates/cdn-settings.html.php:40
+msgctxt "CDN - Select option"
+msgid "Other"
+msgstr ""
+
+#: templates/cdn-settings.html.php:42
+msgctxt "CDN - Setting description"
+msgid "Select your CDN provider."
+msgstr ""
+
+#: templates/cdn-settings.html.php:48
+msgctxt "CDN - Setting title"
+msgid "CDN URL"
+msgstr ""
+
+#: templates/cdn-settings.html.php:52
+msgctxt "CDN - Setting description"
+msgid "Enter your CDN URL."
+msgstr ""
+
+#: templates/dashboard.html.php:1
+msgctxt "Top headline"
+msgid "OSO Super Cache &rsaquo; Dashboard"
+msgstr ""
+
+#: templates/dashboard.html.php:4
+msgctxt "Tab title"
+msgid "Dashboard"
+msgstr ""
+
+#: templates/dashboard.html.php:10
+msgid "Dashboard"
+msgstr ""
+
+#: templates/dashboard.html.php:22
+msgctxt "Headline of a fieldset"
+msgid "Simple Setup"
+msgstr ""
+
+#: templates/dashboard.html.php:25
+msgctxt "Setting title"
+msgid "Activate OSO Super Cache"
+msgstr ""
+
+#: templates/dashboard.html.php:30
+msgctxt "Setting description"
+msgid "When activated, OSO Super Cache starts caching your website."
+msgstr ""
+
+#: templates/dashboard.html.php:31
+msgctxt "Setting description"
+msgid "If deactivated, the site behaves as before."
+msgstr ""
+
+#: templates/dashboard.html.php:37
+msgctxt "Setting title"
+msgid "Cache Presets"
+msgstr ""
+
+#: templates/dashboard.html.php:41
+msgctxt "Select option"
+msgid "Custom"
+msgstr ""
+
+#: templates/dashboard.html.php:42
+msgctxt "Select option"
+msgid "Default"
+msgstr ""
+
+#: templates/dashboard.html.php:43
+msgctxt "Select option"
+msgid "Only pages"
+msgstr ""
+
+#: templates/dashboard.html.php:44
+msgctxt "Select option"
+msgid "E-commerce"
+msgstr ""
+
+#: templates/dashboard.html.php:45
+msgctxt "Select option"
+msgid "Magazine / Blog"
+msgstr ""
+
+#: templates/dashboard.html.php:46
+msgctxt "Select option"
+msgid "Corporate"
+msgstr ""
+
+#: templates/dashboard.html.php:47
+msgctxt "Select option"
+msgid "Test CSS"
+msgstr ""
+
+#: templates/dashboard.html.php:48
+msgctxt "Select option"
+msgid "Test JS"
+msgstr ""
+
+#: templates/dashboard.html.php:50
+msgctxt "Setting description"
+msgid
+"<strong>Custom</strong>: Your custom settings. This preset will be created/"
+"updated everytime you update the settings."
+msgstr ""
+
+#: templates/dashboard.html.php:51
+msgctxt "Setting description"
+msgid "<strong>Default</strong>: Default cache settings for most sites."
+msgstr ""
+
+#: templates/dashboard.html.php:52
+msgctxt "Setting description"
+msgid
+"<strong>Only pages</strong>: Only pages are cached, no merging/caching of "
+"JavaScript or CSS."
+msgstr ""
+
+#: templates/dashboard.html.php:53
+msgctxt "Setting description"
+msgid
+"<strong>E-commerce</strong>: Special &quot;do not cache&quot; rules for "
+"ecommerce sites."
+msgstr ""
+
+#: templates/dashboard.html.php:54
+msgctxt "Setting description"
+msgid
+"<strong>Magazine / Blog</strong>: Optimized cache lifetimes for "
+"magazines / blogs that are continually updated with new content."
+msgstr ""
+
+#: templates/dashboard.html.php:55
+msgctxt "Setting description"
+msgid
+"<strong>Corporate</strong>: Optimized cache lifetimes for corporate sites."
+msgstr ""
+
+#: templates/dashboard.html.php:56
+msgctxt "Setting description"
+msgid "<strong>Test CSS</strong>: Only CSS is merged."
+msgstr ""
+
+#: templates/dashboard.html.php:57
+msgctxt "Setting description"
+msgid "<strong>Test JS</strong>: Only JS is merged."
+msgstr ""
+
+#: templates/dashboard.html.php:70
+msgctxt "Dashboard - Headline of a fieldset"
+msgid "Statistics &amp; Information"
+msgstr ""
+
+#: templates/dashboard.html.php:90
+msgctxt "Dashboard - Table head"
+msgid "Total cached pages"
+msgstr ""
+
+#: templates/dashboard.html.php:94
+msgctxt "Dashboard - Table head"
+msgid "Runtime without cache"
+msgstr ""
+
+#: templates/dashboard.html.php:98
+msgctxt "Dashboard - Table head"
+msgid "Runtime with cache"
+msgstr ""
+
+#: templates/dashboard.html.php:102
+msgctxt "Dashboard - Table head"
+msgid "Performance increased"
+msgstr ""
+
+#: templates/dashboard.html.php:103
+msgctxt "Table column"
+msgid "times faster"
+msgstr ""
+
+#: templates/dashboard.html.php:112
+msgctxt "Dashboard - Table head"
+msgid "Scheduled preloads remaining for today"
+msgstr ""
+
+#: templates/dashboard.html.php:116
+msgctxt "Dashboard - Table head"
+msgid "Last preload"
+msgstr ""
+
+#: templates/dashboard.html.php:128
+msgctxt "Dashboard - Headline of a fieldset"
+msgid "Cache Maintenance"
+msgstr ""
+
+#: templates/dashboard.html.php:131
+msgctxt "Dashboard - Setting title"
+msgid "Select a maintenance option"
+msgstr ""
+
+#: templates/dashboard.html.php:134
+msgctxt "Setting checkbox"
+msgid "Refresh"
+msgstr ""
+
+#: templates/dashboard.html.php:140
+msgctxt "Setting checkbox"
+msgid "Clear CSS pre-cache files"
+msgstr ""
+
+#: templates/dashboard.html.php:142
+msgctxt "Dashboard - Setting description"
+msgid "<strong>Refresh</strong>: Mark all pages to refresh their cache."
+msgstr ""
+
+#: templates/dashboard.html.php:143
+msgctxt "Dashboard - Setting description"
+msgid
+"<strong>Reset</strong>: Resets OSO Super Cache index. All <strong>Cache "
+"storage</strong> settings and runtime statistics will be lost."
+msgstr ""
+
+#: templates/dashboard.html.php:144
+msgctxt "Dashboard - Setting description"
+msgid
+"<strong>Clear CSS pre-cache files</strong>: This clears all CSS pre-cache "
+"files. Recommended when you have modified one of your CSS files."
+msgstr ""
+
+#: templates/dashboard.html.php:149
+msgctxt "Dashboard - Setting title"
+msgid "Confirmation"
+msgstr ""
+
+#: templates/dashboard.html.php:154
+msgctxt "Dashboard - Setting description"
+msgid
+"Please confirm that you want to execute the selected maintenance option."
+msgstr ""
+
+#: templates/dashboard.html.php:161
+msgctxt "Button title"
+msgid "Execute Cache Maintenance"
+msgstr ""
+
+#: templates/dashboard.html.php:169
+msgctxt "Dashboard - Headline of a fieldset"
+msgid "Version"
+msgstr ""
+
+#: templates/dashboard.html.php:172
+msgctxt "Dashboard - Table head"
+msgid "Installed version"
+msgstr ""
+
+#: templates/dashboard.html.php:176
+msgctxt "Dashboard - Table head"
+msgid "Available version"
+msgstr ""
+
+#: templates/dashboard.html.php:180
+msgctxt "Dashboard - Table head"
+msgid "Last check for updates"
+msgstr ""
+
+#: templates/dashboard.html.php:187
+msgctxt "Button title"
+msgid "Check for updates"
+msgstr ""
+
+#: templates/dashboard.html.php:227
+msgctxt "Chart Label"
+msgid "Preloads"
+msgstr ""
+
+#: templates/fragments.html.php:1
+msgctxt "Fragments - Top headline"
+msgid "OSO Super Cache &rsaquo; Fragments"
+msgstr ""
+
+#: templates/fragments.html.php:4
+msgctxt "Fragments - Tab title"
+msgid "Fragments"
+msgstr ""
+
+#: templates/fragments.html.php:9
+msgctxt "Fragments - Headline right of icon"
+msgid "Fragments"
+msgstr ""
+
+#: templates/fragments.html.php:17
+msgctxt "Fragments - Setting page description"
+msgid
+"Fragment caching allows you to have dynamic code in your cached static "
+"files."
+msgstr ""
+
+#: templates/fragments.html.php:18
+msgctxt "Fragments - Setting page description"
+msgid
+"The number of WordPress functions available depends upon your <strong>Late "
+"Initialization</strong> (see <a href=\"?page=oso-super-cache-advanced-"
+"settings\">Advanced Settings</a>) settings."
+msgstr ""
+
+#: templates/fragments.html.php:24
+msgctxt "Fragments - Headline of a fieldset"
+msgid "Fragment Settings"
+msgstr ""
+
+#: templates/fragments.html.php:27
+msgctxt "Fragments - Setting title"
+msgid "Fragment Caching"
+msgstr ""
+
+#: templates/fragments.html.php:32
+msgctxt "Fragments - Setting description"
+msgid
+"Activate to parse PHP code between <strong>&lt;!--[oso-super-cache "
+"start: ...]--&gt;</strong> and <strong>&lt;!--[oso-super-cache end: ...]--"
+"&gt;</strong>."
+msgstr ""
+
+#: templates/fragments.html.php:38
+msgctxt "Fragments - Setting title"
+msgid "Fragment Mask Phrase"
+msgstr ""
+
+#: templates/fragments.html.php:42
+msgctxt "Fragments - Setting description"
+msgid "A phrase with a min length of 14 tokens. Allowed: a-z A-Z 0-9"
+msgstr ""
+
+#: templates/fragments.html.php:55
+msgctxt "Fragments - Headline"
+msgid "Example"
+msgstr ""
+
+#: templates/fragments.html.php:56
+msgctxt "Fragments - Setting description"
+msgid "Place this code in your theme, e.g. in sidebar.php"
+msgstr ""
+
+#: templates/import-export.html.php:1
+msgctxt "Top headline"
+msgid "OSO Super Cache &rsaquo; Import &amp; Export"
+msgstr ""
+
+#: templates/import-export.html.php:4
+msgctxt "Tab title"
+msgid "Import &amp; Export"
+msgstr ""
+
+#: templates/import-export.html.php:9
+msgctxt "Headline right of icon"
+msgid "Import &amp; Export"
+msgstr ""
+
+#: templates/import-export.html.php:21
+msgctxt "Import - Headline of a fieldset"
+msgid "Import"
+msgstr ""
+
+#: templates/import-export.html.php:27
+msgctxt "Import Form"
+msgid "New settings"
+msgstr ""
+
+#: templates/import-export.html.php:31
+msgctxt "Import - Setting description"
+msgid
+"Paste your settings into the text area and click on <strong>Import "
+"settings</strong>."
+msgstr ""
+
+#: templates/import-export.html.php:38
+msgctxt "Button title"
+msgid "Import settings"
+msgstr ""
+
+#: templates/import-export.html.php:50
+msgctxt "Export - Headline of a fieldset"
+msgid "Export"
+msgstr ""
+
+#: templates/import-export.html.php:57
+msgctxt "Export - Form"
+msgid "Current settings"
+msgstr ""
+
+#: templates/import-export.html.php:61
+msgctxt "Export - Setting description"
+msgid
+"Copy the content of the text area and insert it into the import field of "
+"another WordPress instance where you want to apply your OSO Super Cache "
+"settings."
+msgstr ""
+
+#: templates/meta-box.html.php:12
+msgctxt "Meta box setting"
+msgid "Exclude this page from the cache"
+msgstr ""
+
+#: templates/meta-box.html.php:18
+msgctxt "Meta box title"
+msgid "Cached page from:"
+msgstr ""
+
+#: templates/meta-box.html.php:24
+msgctxt "Meta box setting"
+msgid "Refresh cache immediately"
+msgstr ""
+
+#: templates/optimize-database.html.php:1
+msgctxt "Top headline"
+msgid "OSO Super Cache &rsaquo; Optimize Database"
+msgstr ""
+
+#: templates/optimize-database.html.php:4
+msgctxt "Tab title"
+msgid "Optimize Database"
+msgstr ""
+
+#: templates/optimize-database.html.php:9
+msgctxt "Headline right of icon"
+msgid "Optimize Database"
+msgstr ""
+
+#: templates/optimize-database.html.php:17
+msgctxt "Headline"
+msgid "Statistics"
+msgstr ""
+
+#: templates/optimize-database.html.php:21
+#: templates/optimize-database.html.php:30
+msgctxt "Table head"
+msgid "Total database size"
+msgstr ""
+
+#: templates/optimize-database.html.php:25
+#: templates/optimize-database.html.php:31
+msgctxt "Table head"
+msgid "Total optimized"
+msgstr ""
+
+#: templates/optimize-database.html.php:30
+msgctxt "Description"
+msgid "The cumulative size of all of the tables in the database."
+msgstr ""
+
+#: templates/optimize-database.html.php:31
+msgctxt "Description"
+msgid
+"The size OSO Super Cache could save by optimizing tables of the database to "
+"date."
+msgstr ""
+
+#: templates/optimize-database.html.php:38
+msgctxt "Headline of a fieldset"
+msgid "WordPress Tables"
+msgstr ""
+
+#: templates/optimize-database.html.php:47
+#: templates/optimize-database.html.php:111
+msgctxt "Table head"
+msgid "Table"
+msgstr ""
+
+#: templates/optimize-database.html.php:48
+#: templates/optimize-database.html.php:112
+msgctxt "Table head"
+msgid "Size"
+msgstr ""
+
+#: templates/optimize-database.html.php:49
+#: templates/optimize-database.html.php:113
+msgctxt "Table head"
+msgid "Size after optimization"
+msgstr ""
+
+#: templates/optimize-database.html.php:78
+#: templates/optimize-database.html.php:142
+msgctxt "Table foot"
+msgid "Total"
+msgstr ""
+
+#: templates/optimize-database.html.php:88
+#: templates/optimize-database.html.php:151
+msgctxt "Button title"
+msgid "Optimize tables"
+msgstr ""
+
+#: templates/optimize-database.html.php:102
+msgctxt "Headline of a fieldset"
+msgid "Other Tables"
+msgstr ""
+
+#: templates/quick-edit-option.html.php:7
+msgctxt "QuickEdit"
+msgid "OSO Super Cache: Refresh cache"
+msgstr ""
+
+#: templates/view-cache-404.html.php:3
+msgctxt "Headline right of icon"
+msgid "404 (not found)"
+msgstr ""
+
+#: templates/view-cache-404.html.php:14
+msgctxt "Headline of a fieldset"
+msgid "Cached 404 (not found) pages"
+msgstr ""
+
+#: templates/view-cache-404.html.php:21
+#: templates/view-cache-pages.html.php:26
+msgctxt "Button title"
+msgid "Search page"
+msgstr ""
+
+#: templates/view-cache-404.html.php:31
+#: templates/view-cache-pages.html.php:35
+msgctxt "Table head"
+msgid "SSL"
+msgstr ""
+
+#: templates/view-cache-404.html.php:32
+#: templates/view-cache-pages.html.php:36
+msgctxt "Table head"
+msgid "Domain"
+msgstr ""
+
+#: templates/view-cache-404.html.php:33
+#: templates/view-cache-pages.html.php:37
+msgctxt "Table head"
+msgid "Path"
+msgstr ""
+
+#: templates/view-cache-404.html.php:34
+#: templates/view-cache-pages.html.php:38
+msgctxt "Table head"
+msgid "Runtime without cache"
+msgstr ""
+
+#: templates/view-cache-404.html.php:35
+#: templates/view-cache-pages.html.php:39
+msgctxt "Table head"
+msgid "Runtime with cache"
+msgstr ""
+
+#: templates/view-cache-404.html.php:36
+#: templates/view-cache-pages.html.php:40
+msgctxt "Table head"
+msgid "Last updated"
+msgstr ""
+
+#: templates/view-cache-404.html.php:71
+msgctxt "No result"
+msgid "No 404 pages cached."
+msgstr ""
+
+#: templates/view-cache-404.html.php:87
+#: templates/view-cache-pages.html.php:112
+msgctxt "Select option"
+msgid "Bulk Actions"
+msgstr ""
+
+#: templates/view-cache-404.html.php:88
+#: templates/view-cache-pages.html.php:114
+msgctxt "Select option"
+msgid "Remove from cache"
+msgstr ""
+
+#: templates/view-cache-404.html.php:95
+#: templates/view-cache-pages.html.php:122
+#, php-format
+msgctxt "Paging"
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/view-cache-404.html.php:100
+#: templates/view-cache-404.html.php:106
+#: templates/view-cache-pages.html.php:127
+#: templates/view-cache-pages.html.php:133
+msgctxt "Paging"
+msgid "First page"
+msgstr ""
+
+#: templates/view-cache-404.html.php:116
+#: templates/view-cache-404.html.php:122
+#: templates/view-cache-pages.html.php:143
+#: templates/view-cache-pages.html.php:149
+msgctxt "Paging"
+msgid "Previous page"
+msgstr ""
+
+#: templates/view-cache-404.html.php:130
+#: templates/view-cache-pages.html.php:157
+#, php-format
+msgctxt "Paging"
+msgid "%1$s of <span class=\"total-pages\">%2$s</span>"
+msgstr ""
+
+#: templates/view-cache-404.html.php:136
+#: templates/view-cache-404.html.php:142
+#: templates/view-cache-pages.html.php:163
+#: templates/view-cache-pages.html.php:169
+msgctxt "Paging"
+msgid "Next page"
+msgstr ""
+
+#: templates/view-cache-404.html.php:152
+#: templates/view-cache-404.html.php:158
+#: templates/view-cache-pages.html.php:179
+#: templates/view-cache-pages.html.php:185
+msgctxt "Paging"
+msgid "Last page"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:3
+msgctxt "Headline right of icon"
+msgid "Pages"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:15
+#, php-format
+msgctxt "Headline of a fieldset"
+msgid "Cached pages: Search result for &#8222;%s&#8220;"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:17
+msgctxt "Headline of a fieldset"
+msgid "Cached pages"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:41
+msgctxt "Table head"
+msgid "Next update"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:42
+msgctxt "Table head"
+msgid "Cache storage"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:91
+msgctxt "No result"
+msgid "No pages cached."
+msgstr ""
+
+#: templates/view-cache-pages.html.php:100
+msgctxt "Status"
+msgid "Page will be cached"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:101
+msgctxt "Status"
+msgid "Page will not be cached"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:113
+msgctxt "Select option"
+msgid "Swap &quot;Cache storage&quot; status"
+msgstr ""
+
+#: templates/view-cache-pages.html.php:115
+msgctxt "Select option"
+msgid "Mark for refresh"
+msgstr ""
+
+#: templates/view-cache.html.php:1
+msgctxt "Top headline"
+msgid "OSO Super Cache &rsaquo; View Cache"
+msgstr ""
+
+#: templates/view-cache.html.php:4
+msgctxt "Tab title"
+msgid "Pages"
+msgstr ""
+
+#: templates/view-cache.html.php:5
+msgctxt "Tab title"
+msgid "404 (not found)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "OSO Super Cache"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid
+"OSO Super Cache is a caching and optimization plugin for WordPress."
+msgstr ""
+
+
