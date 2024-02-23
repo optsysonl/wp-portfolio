@@ -1,0 +1,11 @@
+.wpea-response-output {padding: 2px 5px;}
+.wpea-form.sent .wpea-response-output {
+    border: 1px solid green;
+}
+.wpea-form.failed .wpea-response-output {
+    border: 1px solid red;
+}
+
+.wpea-error {
+    border-color: red;
+}

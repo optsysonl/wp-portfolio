@@ -1,0 +1,68 @@
+#form-editor-tabs {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0 0;
+    padding: 0 10px;
+    position: relative;
+    z-index: 2;
+}
+#form-editor-tabs li {
+    background-color: #fff;
+    border: 1px solid rgba(220,220,222,.75);
+    border-radius: 5px 5px 0 0;
+    padding: 5px 10px;
+    margin-bottom: 0;
+    cursor: pointer;
+    opacity: 0.8;
+}
+#form-editor-tabs li.active {
+    opacity: 1;
+    border-bottom-color: #fff;
+}
+#form-editor-tabs li.disabled {
+    opacity: 0.5;
+    cursor: default;
+}
+.form-editor-panel {
+    display: none;
+    background-color: #fff;
+    border: 1px solid rgba(220,220,222,.75);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: -1px;
+    position: relative;
+    z-index: 1;
+}
+
+.form-editor-panel.displayed {
+    display: block;
+}
+
+#wpea-api-connection {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #c3c4c7;
+    margin-top: 20px;
+}
+.api-status {
+    padding: 10px 0;
+}
+.notifications {
+    /*display: none;*/
+}
+
+#tag-generator-list {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+#form-configuration-step-2-fields table th {
+    padding: 2px 5px;
+}
+#form-configuration-step-2-fields table td {
+    padding: 2px 5px;
+}
