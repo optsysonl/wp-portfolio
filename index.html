@@ -15,6 +15,24 @@
   <!-- Add some coding keywords below, Ex: (React, CSS etc) -->
   <meta name="keywords" content="Put your name, skills and some coding keywords" />
   <link rel="stylesheet" href="styles.css" />
+  <!-- Matomo -->
+  <script>
+    var _paq = window._paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.optsysonl.github.io"]);
+    _paq.push(["setExcludedQueryParams", ["gclid"]]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="https://analytics.osobrand.net/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '70']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
 </head>
 
 <body>
@@ -316,8 +334,7 @@
       <h2>Get in Touch</h2>
       <div class="contact__info">
         <p>
-          Are you looking for a fast-performing and user-friendly website to
-          represent your product or business? or looking for any kind of
+          Are you looking for a fast-performing and user-friendly web developer to work on your product or business? or looking for any kind of
           consultation? or want to ask questions? or have some advice for me
           or just want to say "Hi 👋" in any case feel free to Let me know. I
           will do my best to respond back. 😊 The quickest way to reach out to
@@ -364,6 +381,9 @@
     <img src="./images/arrow-up.svg" alt="Back to Top" class="back-to-top__image"/>
   </a>
   <script src="./script.js"></script>
+  <!-- Matomo -->
+  <noscript><p><img src="https://analytics.osobrand.net/matomo.php?idsite=70&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  <!-- End Matomo Code -->
 </body>
 
 </html>
